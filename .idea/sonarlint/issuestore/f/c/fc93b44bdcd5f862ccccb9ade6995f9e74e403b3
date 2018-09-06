@@ -1,0 +1,12 @@
+
+‚squid:UselessImportCheck"RRemove this unused import 'jdk.nashorn.internal.runtime.arrays.ArrayLikeIterator'.(şüÖíúÿÿÿÿ8ÓÀ¦ãÈ,
+[squid:S1854D"8Remove this useless assignment to local variable "var4".(‚µ±Àøÿÿÿÿ8ÈÿäÈ,
+fsquid:UselessImportCheck"6Remove this unused import 'javax.xml.namespace.QName'.(•·ï½üÿÿÿÿ8»ŞúËÆ,
+j$squid:AssignmentInSubExpressionCheckD".Extract the assignment out of this expression.(‚µ±Àøÿÿÿÿ8ÈÿäÈ,
+Wsquid:S3516L"9Refactor this method to not always return the same value.(“¼¦Ù8¢·äÈ,
+bsquid:UselessImportCheck
+"2Remove this unused import 'javax.print.DocFlavor'.(ÍØƒïúÿÿÿÿ8ĞÙ€ÄÆ,
+gsquid:UselessImportCheck"<Remove this unused import 'com.alibaba.fastjson.JSONObject'.(äıµ8ØµñûÅ,
+Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8Ä°èÃÆ,
+T
+squid:S106*"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ

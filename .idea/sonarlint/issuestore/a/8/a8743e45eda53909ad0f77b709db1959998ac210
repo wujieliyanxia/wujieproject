@@ -1,0 +1,10 @@
+
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(…ÊúÔüÿÿÿÿ8ÁÛ‰’Ê,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×Ñ—¦ùÿÿÿÿ8¿¬Í’Ê,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(š‹íìÿÿÿÿÿ8ÁÛ‰’Ê,
+Xsquid:S1161
+":Add the "@Override" annotation above this method signature(“–ış8˜ÖŠ’Ê,
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Œœœúÿÿÿÿ8ÁÛ‰’Ê,

@@ -1,0 +1,36 @@
+
+gsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(îà£öþÿÿÿÿ
+dsquid:S00112Ž"FDefine and throw a dedicated exception instead of using a generic one.(õàþ¶þÿÿÿÿ
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+qsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡ÆÐa
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(êšùŽ
+bsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Ð±Ôî
+bsquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(êõ¹û
+T
+squid:S106V"9Replace this use of System.out or System.err by a logger.(‚Œ©þÿÿÿÿ
+?squid:S11489"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+vsquid:S1149."_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Âò„
+lsquid:S2068"U'password' detected in this expression, review this potentially hardcoded credential.(òŠ·¤
+wsquid:S1149©"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+gsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(†–²Øÿÿÿÿÿ
+?squid:S1148X"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+gsquid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(í«óùÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¤ŒÝ‘
+jsquid:ModifiersOrderCheck#"EReorder the modifiers to comply with the Java Language Specification.(Ýš—Ÿ
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(‚Œ©þÿÿÿÿ
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(‚Œ©þÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»îŠ
+vsquid:S1488Õ"^Immediately return this expression instead of assigning it to the temporary variable "result".(‚½ 
+rsquid:S00115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ýš—Ÿ
+gsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(ùËâŽúÿÿÿÿ
+bsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(Š…°Ô
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(òŠ·¤
+_squid:S00112µ"FDefine and throw a dedicated exception instead of using a generic one.(•’œ€
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òŠ·¤
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(»îŠ
+isquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¡ÆÐa
+?squid:S1148H"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+{squid:S1149m"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(šÉ†Øûÿÿÿÿ
+bsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(Š…°Ô

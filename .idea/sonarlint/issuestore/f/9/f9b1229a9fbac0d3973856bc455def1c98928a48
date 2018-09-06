@@ -1,0 +1,8 @@
+
+Osquid:S1481",Remove this unused "thread2" local variable.(ôâ…Æşÿÿÿÿ8ÿÙÛÊ,
+^squid:S1854";Remove this useless assignment to local variable "thread2".(ôâ…Æşÿÿÿÿ8ÿÙÛÊ,
+ƒsquid:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(Ğ§œÏüÿÿÿÿ8—½İÊ,
+[squid:CallToDeprecatedMethod",Remove this use of "stop"; it is deprecated.(¦íúÎ8¨±èÊ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùÄûšşÿÿÿÿ8«ÔÜÊ,
+Ksquid:S1604"(Make this anonymous inner class a lambda(ôâ…Æşÿÿÿÿ8ÿÙÛÊ,

@@ -1,0 +1,8 @@
+
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(äØâÁ
+jsquid:ModifiersOrderCheck	"EReorder the modifiers to comply with the Java Language Specification.(ß­Ç…
+osquid:ModifiersOrderCheck
+"EReorder the modifiers to comply with the Java Language Specification.(íÝ»öÿÿÿÿÿ
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(¥ê‹Üýÿÿÿÿ
+]squid:S1126+"AReplace this if-then-else statement by a single return statement.(ÓŒßãüÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(¥©ú×ûÿÿÿÿ

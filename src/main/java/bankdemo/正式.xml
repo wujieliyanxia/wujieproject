@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+               soap:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+    <soap:Header>
+        <out:system xmlns:out="http://www.ylzinfo.com/"></out:system>
+    </soap:Header>
+    <soap:Body>
+        <out:business xmlns:out="http://www.ylzinfo.com/">
+            <resultset name="retrieve">
+                <row AAB001="220104300099" AAC010="" AAB301="220100" EMAIL="" AAB004="北京易才人力资源顾问有限公司长春分公司"
+                     AAZ500="D58132166" JHRZH="" AAZ502="0" AAC002="362329199412164516" ZJLX="A" JHRZJLX="" AAC009="11"
+                     ZJYXQ="20220130" AAC008="1" BATCHNO="22647" AAC006="19941216" AAC005="01" MOBILE="15805315486"
+                     JHRXM="" AAC004="1" AAC003="邬洁" AAE006="吉林省长春市" AAE005="" AAE007="130000" GJ="CHN"/>
+            </resultset>
+        </out:business>
+    </soap:Body>
+</soap:Envelope>

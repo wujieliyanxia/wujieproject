@@ -1,0 +1,109 @@
+
+}squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìŒ‡Œúÿÿÿÿ8ÜÎ³«Ï,
+ssquid:S00100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨·÷‹şÿÿÿÿ8„»·¯Î,
+squid:S1319ğ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ËÈàÆ8Úä¹ÚÏ,
+lsquid:S1871¬"MThis branch's code block is the same as the block for the branch on line 675.(óşâì8Â²Ó‰Î,
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ï†x8‰·Í„Ï,
+W
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(ß®Ëî8ÜÎ³«Ï,
+qsquid:S1871ì"MThis branch's code block is the same as the block for the branch on line 875.(—ëû‡üÿÿÿÿ8ÜÎ³«Ï,
+V
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(ºåÿo8ÜÎ³«Ï,
+|squid:S00116‘"\Rename this field "NotEmptySemaphore" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÓğş8ÜÎ³«Ï,
+nsquid:S00100­	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶§­ı8ÉÑÜíÏ,
+Gsquid:S1148ú"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÜÎ³«Ï,
+ssquid:S00100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÌœŒùÿÿÿÿ8•ª¢ßÍ,
+\squid:S1197•"8Move the array designator from the variable to the type.(¨ç¹Ñşÿÿÿÿ8˜Êš­Ï,
+nsquid:S1149¸"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(óúŒ8…¥šäË,
+”squid:S1319Ó"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(­ª£Ğüÿÿÿÿ8èÀÔÍ,
+Qsquid:S1172•"-Remove this unused method parameter "length".(¨ç¹Ñşÿÿÿÿ8˜Êš­Ï,
+tsquid:S1149è"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¸´Ã®şÿÿÿÿ8ÜÎ³«Ï,
+tsquid:S1149è"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¸´Ã®şÿÿÿÿ8ÜÎ³«Ï,
+tsquid:S1149ü"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8—¡ã¸Ì,
+jsquid:S2147û"FCombine this catch with the one at line 1017, which has the same body.(†«”Ïüÿÿÿÿ8ÜÎ³«Ï,
+\
+squid:S106à"9Replace this use of System.out or System.err by a logger.(Š³¼Åÿÿÿÿÿ8ÜÎ³«Ï,
+tsquid:S1149‰"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(êùÂ»øÿÿÿÿ8æ…ÊäÊ,
+\squid:S2130½"8Use "Long.parseLong" for this string-to-long conversion.(‚¿ÂŸÿÿÿÿÿ8ÌÔ¤áÍ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+psquid:S00117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ù¹ñ8¯æØ›Ê,
+qsquid:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ËÈàÆ8¾»ÏÚÏ,
+ssquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õË¹Òşÿÿÿÿ8³®·¼Ì,
+Dsquid:S1659Ù" Declare "i5" on a separate line.(ªæğãÿÿÿÿÿ8¼ ´Î,
+”squid:S1319Í"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İÇÃÕùÿÿÿÿ8Ú»å‘Ì,
+nsquid:S00100¼	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·æŒÒ8«¢¶óÏ,
+squid:S1488X"aImmediately return this expression instead of assigning it to the temporary variable "TailArray".(®Ù¹ñ8¯æØ›Ê,
+vsquid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«§é¹øÿÿÿÿ8˜Ú‘ËÏ,
+nsquid:S00100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ƒÅ¡8½“…‰Î,
+osquid:S1149æ"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Îä°¡8ÜÎ³«Ï,
+ssquid:S00100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¢ Öıÿÿÿÿ8İ×Î,
+ssquid:S00100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ª¨«ûÿÿÿÿ8€„½ÓÎ,
+`squid:S1854ı	"<Remove this useless assignment to local variable "treeNode".(˜²Áøÿÿÿÿ8ô÷¦ôÏ,
+squid:S1319‹"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‹šì‹8ÿˆà¹Ì,
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùÒÔùÿÿÿÿ8™ÚÏ¶Í,
+nsquid:S1149ˆ"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Í»˜L8˜’Ã¶Ê,
+~squid:S1149°	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8‹«‹îÏ,
+nsquid:S00100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏØôÀ8öµÀ°Î,
+ssquid:S00100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÆ…Õûÿÿÿÿ8Ì¬ØûÌ,
+|
+squid:S135È"YReduce the total number of break and continue statements in this loop to use at most one.(òûÎ›ÿÿÿÿÿ8ç˜÷ÄÊ,
+msquid:S00100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿø·"8…’¿µÍ,
+~squid:S1149»"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8Ğ‹íàÍ,
+Gsquid:S1604İ"(Make this anonymous inner class a lambda(Ìñø¦8ÜÎ³«Ï,
+Jsquid:S1481§"&Remove this unused "l" local variable.(¯‰Éúÿÿÿÿ8˜Ú‘ËÏ,
+ssquid:S00100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÖÜÆıÿÿÿÿ8Ó¨ƒ…Ï,
+}squid:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(êùÂ»øÿÿÿÿ8æ…ÊäÊ,
+nsquid:S00100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÈàÆ8Úä¹ÚÏ,
+ssquid:S00100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÙ²•øÿÿÿÿ8èÀÔÍ,
+Gsquid:S1148Ë"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÜÎ³«Ï,
+wsquid:ModifiersOrderCheckè"EReorder the modifiers to comply with the Java Language Specification.(¸´Ã®şÿÿÿÿ8ÜÎ³«Ï,
+nsquid:S00100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹šì‹8ÿˆà¹Ì,
+osquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(åóáıÿÿÿÿ8÷ò¥‚Î,
+qsquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰é‡é8˜Ú‘ËÏ,
+Qsquid:S1481ı	"-Remove this unused "treeNode" local variable.(˜²Áøÿÿÿÿ8ô÷¦ôÏ,
+ssquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¡õæøÿÿÿÿ8¿Ò¯¶Í,
+Bsquid:S1165º	"Make this "index" field final.(Œóñ·øÿÿÿÿ8ïü’óÏ,
+msquid:S00100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ëÍ_8üó§—Ë,
+rsquid:ModifiersOrderCheckæ"EReorder the modifiers to comply with the Java Language Specification.(Îä°¡8ÜÎ³«Ï,
+ssquid:S00100Ê	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÑÁÖùÿÿÿÿ8¶ƒİóÏ,
+Fsquid:S1604À"(Make this anonymous inner class a lambda(ô§ê8ÜÎ³«Ï,
+nsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(şö€“úÿÿÿÿ8êœ¼›Ê,
+nsquid:S00100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â­Øâ8ØÇ½ÔÎ,
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú°ë–8¸—óÉ,
+Dsquid:S1659Ù" Declare "i3" on a separate line.(ªæğãÿÿÿÿÿ8¼ ´Î,
+nsquid:S00100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú€å8Õá ªË,
+ssquid:S00100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ª£Ğüÿÿÿÿ8èÀÔÍ,
+Gsquid:S1148ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÜÎ³«Ï,
+wsquid:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í»˜L8ØúÂ¶Ê,
+ssquid:S00100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¹»úÿÿÿÿ8³®·¼Ì,
+esquid:S2142ù"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÜÎ³«Ï,
+ssquid:S00100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ØŞòÿÿÿÿÿ8¿¢Ã—Ë,
+nsquid:S00100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æš—È8Í¸ÇµË,
+\squid:S1197Å"8Move the array designator from the variable to the type.(í ½¥ùÿÿÿÿ8ÚìÕÄÊ,
+[squid:S2589–"7Remove this expression which always evaluates to "true"(²…ÊĞÿÿÿÿÿ8”ÜïÍÏ,
+nsquid:S00100–	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼²Ãƒ8à‰òÚÏ,
+osquid:S1149æ"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Îä°¡8ÜÎ³«Ï,
+esquid:S2142Ê"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÜÎ³«Ï,
+squid:S1319…"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Â­Øâ8ØÇ½ÔÎ,
+nsquid:S00100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åúú¿8ØÖ¸«Ï,
+”squid:S1319İ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(½ª¨«ûÿÿÿÿ8€„½ÓÎ,
+}squid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÔ‹¶şÿÿÿÿ8¼ ´Î,
+nsquid:S00100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìş«8¯„Ó€Î,
+Csquid:S1165‰"Make this "stack2" field final.(êùÂ»øÿÿÿÿ8ØúÂ¶Ê,
+msquid:S00100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô½¹f8¿Á•Í,
+ssquid:S00100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Šº·ÿÿÿÿÿ8Á¿©ÏÏ,
+…squid:UselessImportCheck"URemove this unused import 'com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer'.(ùùÒÔùÿÿÿÿ8™ÚÏ¶Í,
+squid:S1319„"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ÿø·"8…’¿µÍ,
+squid:S1319F"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(öÓ’8ì´òšÊ,
+ssquid:S00100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ƒô›üÿÿÿÿ8Å‚ØàÍ,
+isquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(§§ÆÅ8ØçÃôÉ,
+}squid:S1149$"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÿô£Ê8Ãû§ôÉ,
+~squid:S1149Å"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8Ğ‹íàÍ,
+ssquid:S00100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïİ›Àùÿÿÿÿ8’Ú™äË,
+=squid:S1165ˆ"Make this "stack1" field final.(Í»˜L8ØúÂ¶Ê,
+usquid:S00117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è­üÏûÿÿÿÿ8¯æØ›Ê,
+nsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊºÊ´8ÒÚÕ‰Î,
+Jsquid:S1481¨"&Remove this unused "r" local variable.( ˜ñşÿÿÿÿ8˜Ú‘ËÏ,
+ssquid:S00100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ûà—øÿÿÿÿ8—¡ã¸Ì,
+ssquid:S00100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øéøÿÿÿÿ8ù¤´³Î,

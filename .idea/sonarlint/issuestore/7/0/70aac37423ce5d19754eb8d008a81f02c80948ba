@@ -1,0 +1,13 @@
+
+bsquid:S1854"?Remove this useless assignment to local variable "allocation1".(ï™ƒ®úÿÿÿÿ8­ĞÓïÎ,
+Ssquid:S1481"0Remove this unused "allocation4" local variable.(Ø¾¤½üÿÿÿÿ8Â›ÒïÎ,
+]squid:S1854"?Remove this useless assignment to local variable "allocation2".(İí™8­ĞÓïÎ,
+bsquid:S1854"?Remove this useless assignment to local variable "allocation4".(Ö—µÊşÿÿÿÿ8­ĞÓïÎ,
+Lsquid:S1659")Declare "allocation4" on a separate line.(Ø¾¤½üÿÿÿÿ8Â›ÒïÎ,
+Ssquid:S1481"0Remove this unused "allocation2" local variable.(Ø¾¤½üÿÿÿÿ8Â›ÒïÎ,
+Lsquid:S1659")Declare "allocation3" on a separate line.(Ø¾¤½üÿÿÿÿ8Â›ÒïÎ,
+Ssquid:S1481"0Remove this unused "allocation1" local variable.(Ø¾¤½üÿÿÿÿ8Â›ÒïÎ,
+Ssquid:S1481"0Remove this unused "allocation3" local variable.(Ø¾¤½üÿÿÿÿ8Â›ÒïÎ,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(èÜ¡û8£Œ‚ğÎ,
+bsquid:S1854"?Remove this useless assignment to local variable "allocation3".(Â¶®öüÿÿÿÿ8­ĞÓïÎ,
+Lsquid:S1659")Declare "allocation2" on a separate line.(Ø¾¤½üÿÿÿÿ8Â›ÒïÎ,

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <soap:Header>
+        <in:systemxmlns :in="http://yinhai.com">
+            <systemKey>js_yhxt</systemKey>
+            <source>&lt;user*>95533test&lt;/user*>&lt;pass*>test111&lt;/pass*>&lt;aac002>220102197808250215&lt;/aac002>&lt;aac003>周建宇&lt;/aac003>&lt;aab301>220100&lt;/aab301></source>
+            <signature/>
+            <jylsh/>
+            <jyyzm/>
+            <jybh>SBKZKJD</jybh>
+            <fwlsh/>
+            <nbffyzm/>
+            <fwdysxh/>
+        </in:system>
+    </soap:Header>
+    <soap:Body>
+        <ns2:callBusiness xmlns:ns2="http://webservice.common.yinhai.com/">
+            <inputxml>&lt;user*&gt;95533test&lt;/user*&gt;&lt;pass*&gt;test111&lt;/pass*&gt;&lt;aac002&gt;220102197808250215&lt;/aac002&gt;&lt;aac003&gt;周建宇&lt;/aac003&gt;&lt;aab301&gt;220100&lt;/aab301&gt;</inputxml>
+        </ns2:callBusiness>
+    </soap:Body>
+</soap:Envelope>

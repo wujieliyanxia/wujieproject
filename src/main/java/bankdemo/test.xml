@@ -1,0 +1,20 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Header>
+        <in:system xmlns:in="http://yinhai.com">
+            <systemKey>js_yhxt</systemKey>
+            <source>["1563","123","362329199412164516"]</source>
+            <signature/>
+            <jylsh/>
+            <jyyzm/>
+            <jybh>SBKZKJD</jybh>
+            <fwlsh/>
+            <nbffyzm/>
+            <fwdysxh/>
+        </in:system>
+    </soap:Header>
+    <soap:Body>
+        <ns2:callBusiness xmlns:ns2="http://webservice.common.yinhai.com/">
+            <inputxml>["1563","123","362329199412164516"]</inputxml>
+        </ns2:callBusiness>
+    </soap:Body>
+</soap:Envelope>

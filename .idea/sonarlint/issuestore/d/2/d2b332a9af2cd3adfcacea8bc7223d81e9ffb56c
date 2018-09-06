@@ -1,0 +1,14 @@
+
+nsquid:S1149»"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(òÒ²)8œšä‚Ğ,
+Lsquid:S1481%")Remove this unused "test" local variable.(¿‹˜êıÿÿÿÿ8®¯æĞ,
+osquid:S1149°"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà8Ã‡ğ€Ğ,
+|
+squid:S135Æ"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Ê²ûƒĞ,
+squid:S1319Ã"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(é¹¶8®¯æĞ,
+nsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(æú³§ùÿÿÿÿ8á×êĞ,
+tsquid:S1149ç"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(€óÏıÿÿÿÿ8Ç£ÁƒĞ,
+qsquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(é¹¶8®¯æĞ,
+tsquid:S1149£"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ãùÈ–ùÿÿÿÿ8®íõÏ,
+[squid:S1854%"8Remove this useless assignment to local variable "test".(¿‹˜êıÿÿÿÿ8®¯æĞ,
+osquid:S1149Å"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà8³’½ƒĞ,
+osquid:S1149™"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà8³’½ƒĞ,

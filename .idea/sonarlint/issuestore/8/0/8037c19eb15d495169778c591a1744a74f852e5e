@@ -1,0 +1,10 @@
+
+P
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(†ó‹æ
+msquid:S3008&"VRename this field "SERVICE_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–·Ş·
+@squid:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+esquid:S00101$"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Â¡ˆ·
+^squid:S001122"FDefine and throw a dedicated exception instead of using a generic one.(¸„†…
+Hsquid:S4423A",Change this code to use a stronger protocol.(´âéüÿÿÿÿ
+jsquid:S3008%"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÃ±Ñùÿÿÿÿ
+isquid:S20958"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÛúÜşÿÿÿÿ

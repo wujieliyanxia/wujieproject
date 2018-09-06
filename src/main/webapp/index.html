@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="statics/sockjs.min.js
+"></script>
+    <script src="statics/jquery-1.11.0.min.js"></script>
+</head>
+<body>
+<p>Hello World！我</p>
+<!--<img src="./demo/downloadFile" alt="图片"/>-->
+
+<form method="post" enctype="multipart/form-data" id="file_upload" action="./demo/uploadFile">
+    <input type="file" name="fileUpload"/>
+    <input type="submit" value="上传文件" name="test"/>
+</form>
+<div>
+    <button onclick="testHttpsClick()">测试https</button>
+    <button onclick="testHttpClick()">测试http</button>
+</div>
+<!--<div id="showMsg" style="border: 1px solid; width: 500px; height: 400px; overflow: auto;">--></div>
+</body>
+</html>
+<script>
+    /*window.onload = function () {
+        var webSocket;
+        // 浏览器兼容问题
+        /!*if ('WebSocket' in window) {
+            webSocket = new WebSocket("ws://localhost:8080/demo/socket/testHandler");
+        } else if ('MozWebSocket' in window) {
+            webSocket = new MozWebSocket("ws://localhost:8080/demo/socket/testHandler");
+        } else {
+            webSocket = new SockJS('http://localhost:8080/demo/sockjs/testHandler');
+        }*!/
+        url = "http://localhost:8080/demo/sockjs/testHandler";
+        webSocket = new SockJS(url);//建立连接
+        //和服务端连接成功后的操作send操作必须要有 服务端才会可能响应
+        webSocket.onopen = function (evnt) {
+            webSocket.send("1");
+            window.alert("连接成功");
+        };
+        //接收到服务端返回的数据后回调
+        webSocket.onmessage = function (evnt) {
+            console.log(evnt.data);
+            window.alert(evnt.data);
+        };
+        //连接失败回调
+        webSocket.onerror = function (evnt) {
+            window.alert("连接错误");
+        };
+        //服务端关闭引发
+        webSocket.onclose = function (evnt) {
+            console.log("aa");
+            window.alert("连接关闭");
+        }
+    }*/
+    function testHttpsClick() {
+        $.ajax(
+            {
+                url: "./demo/testHttps",
+                success: function (data) {
+                    console.log(data);
+                }
+            }
+        );
+    }
+
+    function testHttpClick() {
+        $.ajax(
+            {
+                url: "./demo/testHttp",
+                success: function (data) {
+                    console.log(data);
+                }
+            }
+        );
+    }
+</script>
+
+

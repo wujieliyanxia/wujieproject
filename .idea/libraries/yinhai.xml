@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="yinhai">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/yinhai" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/yinhai" recursive="false" />
+  </library>
+</component>

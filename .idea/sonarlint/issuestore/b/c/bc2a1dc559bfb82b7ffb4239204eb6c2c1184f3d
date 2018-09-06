@@ -1,0 +1,9 @@
+
+?squid:S1170"!Make this final field static too.(»ú¢»8òÎœìÏ,
+Fsquid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8†õÔìÏ,
+Esquid:S1659""Declare "head" on a separate line.(–÷äÅúÿÿÿÿ8ıï®ìÏ,
+V
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ğ¥¥°8†õÔìÏ,
+Esquid:S1659""Declare "tail" on a separate line.(–÷äÅúÿÿÿÿ8ıï®ìÏ,
+Esquid:S1604<"(Make this anonymous inner class a lambda(ô§ê8†õÔìÏ,
+dsquid:S2142A"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8†õÔìÏ,

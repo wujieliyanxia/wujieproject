@@ -1,0 +1,12 @@
+
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ĞÎğáûÿÿÿÿ8ä‹ê“Ñ,
+Esquid:S1604"(Make this anonymous inner class a lambda(ô§ê8áÙ”“Ñ,
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜ú“Ñ,
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôç‘g8äÛç—Ñ,
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8˜ú“Ñ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(½§¬²úÿÿÿÿ8¾™æ“Ñ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ©Üê8Î×Š“Ñ,

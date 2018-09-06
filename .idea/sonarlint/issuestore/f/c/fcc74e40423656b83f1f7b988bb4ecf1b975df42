@@ -1,0 +1,9 @@
+
+Zsquid:S21478"DCombine this catch with the one at line 54, which has the same body.(ÿÒ„p
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ëÞï®
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(‚£¨Â
+8squid:S1643"Use a StringBuilder instead.( ’ÃÒýÿÿÿÿ
+2squid:S1643&"Use a StringBuilder instead.(¿¿¼:
+?squid:S11489"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S11487"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+qsquid:S14884"[Immediately return this expression instead of assigning it to the temporary variable "str".(»þ…M

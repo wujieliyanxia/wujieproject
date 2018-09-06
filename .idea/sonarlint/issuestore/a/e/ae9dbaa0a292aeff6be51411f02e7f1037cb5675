@@ -1,0 +1,4 @@
+
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ôÈÙµ8ä‰ˆÎ,
+›squid:S1319"}The type of the "handlerAdapterList" object should be an interface such as "List" rather than the implementation "ArrayList".(ôÈÙµ8ä‰ˆÎ,
+;squid:S2386"Make this member "protected".(ôÈÙµ8ä‰ˆÎ,

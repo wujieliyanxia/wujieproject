@@ -1,0 +1,20 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Header>
+        <in:system xmlns:in="http://yinhai.com">
+            <systemKey>js_yhxt</systemKey>
+            <source>&lt;AAC003>周斌&lt;/AAC003>&lt;AAC002>362329199412164516&lt;/AAC002>&lt;serviceLevel>1&lt;/serviceLevel>&lt;用户名*>1563&lt;/用户名*>&lt;密码*>123&lt;/密码*>&lt;操作*>一张网临时挂失&lt;/操作*>&lt;社会保障号码*>220105198805160613&lt;/社会保障号码*>&lt;Aab301>220100&lt;/Aab301>&lt;社会卡号*>220100&lt;/社会卡号*></source>
+            <signature/>
+            <jylsh/>
+            <jyyzm/>
+            <jybh>SBKGSJG</jybh>
+            <fwlsh/>
+            <nbffyzm/>
+            <fwdysxh/>
+        </in:system>
+    </soap:Header>
+    <soap:Body>
+        <ns2:callBusiness xmlns:ns2="http://webservice.common.yinhai.com/">
+            <inputxml>&lt;AAC003&gt;周斌&lt;/AAC003&gt;&lt;AAC002&gt;362329199412164516&lt;/AAC002&gt;&lt;serviceLevel&gt;1&lt;/serviceLevel&gt;&lt;用户名*&gt;1563&lt;/用户名*&gt;&lt;密码*&gt;123&lt;/密码*&gt;&lt;操作*&gt;一张网临时挂失&lt;/操作*&gt;&lt;社会保障号码*&gt;220105198805160613&lt;/社会保障号码*&gt;&lt;Aab301&gt;220100&lt;/Aab301&gt;&lt;社会卡号*&gt;220100&lt;/社会卡号*&gt;</inputxml>
+        </ns2:callBusiness>
+    </soap:Body>
+</soap:Envelope>

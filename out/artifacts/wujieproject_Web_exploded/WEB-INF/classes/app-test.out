@@ -1,0 +1,1031 @@
+<Jun 14, 2018 2:54:04 PM CST> <INFO> <NodeManager> <Starting WebLogic server with command line: /u01/Middleware/user_projects/domains/base_domain/bin/startWebLogic.sh >
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: PATH=/u01/jdk1.8.0_144/jre/bin:/u01/jdk1.8.0_144/bin:/u01/jdk1.8.0_144/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/weblogic/bin>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: HISTCONTROL=ignoredups>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: JRE_HOME=/u01/jdk1.8.0_144/jre>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: MAIL=/var/spool/mail/weblogic>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: LOGNAME=weblogic>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: PWD=/u01/Middleware/user_projects/domains/base_domain/nodemanager>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: MEM_ARGS=-Xms32m -Xmx200m>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: LESSOPEN=||/usr/bin/lesspipe.sh %s>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: SHELL=/bin/bash>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: JAVA_VM=-server>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: QTINC=/usr/lib64/qt-3.3/include>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: OLDPWD=/home/weblogic>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: BEA_JAVA_HOME=>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: DEFAULT_SUN_JAVA_HOME=/u01/jdk1.8.0_144>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: JAVA_OPTIONS=-Dweblogic.system.BootIdentityFile=/u01/Middleware/user_projects/domains/base_domain/servers/app-test/data/nodemanager/boot.properties -Dweblogic.nodemanager.ServiceEnabled=true -Dweblogic.nmservice.RotationEnabled=true>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: SHLVL=3>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: SECURITY_JVM_ARGS=-Dweblogic.alternateTypesDirectory='/u01/Middleware/wlserver/..'/oracle_common/modules/oracle.oamprovider,'/u01/Middleware/wlserver/..'/oracle_common/modules/oracle.jps>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: ADMIN_URL=http://172.27.109.10:7001>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: HISTSIZE=1000>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: DERBY_SYSTEM_HOME=/common/db>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: JAVA_HOME=/u01/jdk1.8.0_144>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: TMP_UPDATE_SCRIPT=/tmp/Update.sh>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: TERM=linux>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: XFILESEARCHPATH=/usr/dt/app-defaults/%L/Dt>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: LANG=en_US.UTF-8>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: NODEMGR_HOME=/u01/Middleware/user_projects/domains/base_domain/nodemanager>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: G_BROKEN_FILENAMES=1>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: SERVER_NAME=app-test>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: _=/u01/jdk1.8.0_144/bin/java>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: PATHSEP=:>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: CVS_RSH=ssh>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: CAM_NODEMANAGER_JAR_PATH=/u01/Middleware/wlserver/modules/features/oracle.wls.common.nodemanager.jar>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: USER=weblogic>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: CLASSPATH=/u01/jdk1.8.0_144/lib/tools.jar:>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: DEFAULT_BEA_JAVA_HOME=>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: SUN_JAVA_HOME=/u01/jdk1.8.0_144>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: HOSTNAME=yhapp1>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: QTDIR=/usr/lib64/qt-3.3>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: NLSPATH=/usr/dt/lib/nls/msg/%L/%N.cat>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: CLASSPATHSEP=:>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: QTLIB=/usr/lib64/qt-3.3/lib>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: HOME=/home/weblogic>
+<Jun 14, 2018 2:54:04 PM CST> <FINEST> <NodeManager> <Environment: UTILS_MEM_ARGS=-Xms32m -Xmx1024m>
+<Jun 14, 2018 2:54:04 PM CST> <INFO> <NodeManager> <Working directory is '/u01/Middleware/user_projects/domains/base_domain'>
+<Jun 14, 2018 2:54:04 PM CST> <INFO> <NodeManager> <Server output log file is '/u01/Middleware/user_projects/domains/base_domain/servers/app-test/logs/app-test.out'>
+.
+.
+JAVA Memory arguments: -Xms2560m -Xmx2560m 
+.
+CLASSPATH=/u01/jdk1.8.0_144/lib/tools.jar:/u01/Middleware/wlserver/server/lib/weblogic.jar:/u01/Middleware/wlserver/../oracle_common/modules/thirdparty/ant-contrib-1.0b3.jar:/u01/Middleware/wlserver/modules/features/oracle.wls.common.nodemanager.jar::/u01/Middleware/wlserver/common/derby/lib/derbynet.jar:/u01/Middleware/wlserver/common/derby/lib/derbyclient.jar:/u01/Middleware/wlserver/common/derby/lib/derby.jar:/u01/jdk1.8.0_144/lib/tools.jar::/u01/agent/skyeye-bootstrap-1.6.1-SNAPSHOT.jar
+.
+PATH=/u01/Middleware/user_projects/domains/base_domain/bin:/u01/Middleware/wlserver/server/bin:/u01/Middleware/wlserver/../oracle_common/modules/thirdparty/org.apache.ant/1.9.8.0.0/apache-ant-1.9.8/bin:/u01/jdk1.8.0_144/jre/bin:/u01/jdk1.8.0_144/bin:/u01/jdk1.8.0_144/jre/bin:/u01/jdk1.8.0_144/bin:/u01/jdk1.8.0_144/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/weblogic/bin
+.
+***************************************************
+*  To start WebLogic Server, use a username and   *
+*  password assigned to an admin-level user.  For *
+*  server administration, use the WebLogic Server *
+*  console at http://hostname:port/console        *
+***************************************************
+Starting WLS with line:
+/u01/jdk1.8.0_144/bin/java -server   -Xms2560m -Xmx2560m  -cp /u01/Middleware/wlserver/server/lib/weblogic-launcher.jar -Dlaunch.use.env.classpath=true -Dweblogic.Name=app-test -Djava.security.policy=/u01/Middleware/wlserver/server/lib/weblogic.policy  -Dweblogic.ProductionModeEnabled=true -Dweblogic.system.BootIdentityFile=/u01/Middleware/user_projects/domains/base_domain/servers/app-test/data/nodemanager/boot.properties -Dweblogic.nodemanager.ServiceEnabled=true -Dweblogic.nmservice.RotationEnabled=true -Djava.system.class.loader=com.oracle.classloader.weblogic.LaunchClassLoader  -javaagent:/u01/Middleware/wlserver/server/lib/debugpatch-agent.jar -da -Dfile.endcoding=Zh_CN.gb18030 -Dwls.home=/u01/Middleware/wlserver/server -Dweblogic.home=/u01/Middleware/wlserver/server   -Dweblogic.management.server=http://172.27.109.10:7001  -javaagent:/u01/agent/skyeye-bootstrap-1.6.1-SNAPSHOT.jar -Dskyeye.id=xtpt_yhapp1_app-test -Dskyeye.name=xtpt  weblogic.Server
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.BootStrap) skyeye agentArgs:
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) classpath----------: /u01/jdk1.8.0_144/lib/tools.jar:/u01/Middleware/wlserver/server/lib/weblogic.jar:/u01/Middleware/wlserver/../oracle_common/modules/thirdparty/ant-contrib-1.0b3.jar:/u01/Middleware/wlserver/modules/features/oracle.wls.common.nodemanager.jar:/u01/Middleware/wlserver/common/derby/lib/derbynet.jar:/u01/Middleware/wlserver/common/derby/lib/derbyclient.jar:/u01/Middleware/wlserver/common/derby/lib/derby.jar:/u01/jdk1.8.0_144/lib/tools.jar:/u01/agent/skyeye-bootstrap-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Agent original-path:/u01/agent
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Agent canonical-path:/u01/agent
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) found skyeye-commons.jar. /u01/agent/boot/skyeye-commons-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) found skyeye-bootstrap-core.jar. /u01/agent/boot/skyeye-bootstrap-core-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) found skyeye-bootstrap-core-optional.jar. /u01/agent/boot/skyeye-bootstrap-core-optional-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) found skyeye-annotations.jar. /u01/agent/boot/skyeye-annotations-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.BootStrap) appendToBootstrapClassLoader:/u01/agent/boot/skyeye-commons-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.BootStrap) appendToBootstrapClassLoader:/u01/agent/boot/skyeye-bootstrap-core-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.BootStrap) appendToBootstrapClassLoader:/u01/agent/boot/skyeye-bootstrap-core-optional-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.BootStrap) appendToBootstrapClassLoader:/u01/agent/boot/skyeye-annotations-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.IdValidator) check -Dskyeye.id
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.IdValidator) check success. -Dskyeye.id:xtpt_yhapp1_app-test length:20
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.IdValidator) check -Dskyeye.name
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.IdValidator) check success. -Dskyeye.name:xtpt length:4
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-log4j-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-spring-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-jetty-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-tomcat-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-activemq-client-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-arcus-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-weblogic-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-spring-boot-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-dubbo-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-ibatis-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-commons-dbcp2-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-json-lib-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-resin-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-google-httpclient-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-postgresql-jdbc-driver-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-mybatis-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-logback-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-resteasy-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-mariadb-jdbc-driver-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-thrift-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-user-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-redis-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-gson-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-httpclient3-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-hystrix-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-httpclient4-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-jdk-http-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-ning-asynchttpclient-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-commons-dbcp-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-okhttp-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-jtds-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-cubrid-jdbc-driver-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-vertx-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-mysql-jdbc-driver-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-hikaricp-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-cxf-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-oracle-jdbc-driver-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-jackson-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-struts-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.bootstrap.AgentDirBaseClassPathResolver) Found plugins: /u01/agent/plugin/skyeye-cassandra-driver-plugin-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProviders
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.spring.beans.SpringBeansTraceMetadataProvider name:com.skyeye.plugin.spring.beans.SpringBeansTraceMetadataProvider@69930714
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.spring.web.SpringWebMvcTraceMetadataProvider name:com.skyeye.plugin.spring.web.SpringWebMvcTraceMetadataProvider@8909f18
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.jetty.JettyTypeProvider name:com.skyeye.plugin.jetty.JettyTypeProvider@4f638935
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.tomcat.TomcatTypeProvider name:com.skyeye.plugin.tomcat.TomcatTypeProvider@7fc229ab
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.activemq.client.ActiveMQClientTraceMetadataProvider name:com.skyeye.plugin.activemq.client.ActiveMQClientTraceMetadataProvider@1198b989
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.arcus.ArcusTypeProvider name:com.skyeye.plugin.arcus.ArcusTypeProvider@2aa3cd93
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.weblogic.WeblogicTypeProvider name:com.skyeye.plugin.weblogic.WeblogicTypeProvider@290d210d
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.spring.boot.SpringBootTraceMetadataProvider name:com.skyeye.plugin.spring.boot.SpringBootTraceMetadataProvider@10db82ae
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.dubbo.DubboTraceMetadataProvider name:com.skyeye.plugin.dubbo.DubboTraceMetadataProvider@6b4a4e18
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.ibatis.IBatisMetadataProvider name:com.skyeye.plugin.ibatis.IBatisMetadataProvider@402e37bc
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.commons.dbcp2.CommonsDbcp2MetadataProvider name:com.skyeye.plugin.commons.dbcp2.CommonsDbcp2MetadataProvider@22635ba0
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.json_lib.JsonLibTypeProvider name:com.skyeye.plugin.json_lib.JsonLibTypeProvider@5a955565
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.resin.ResinTraceMetadataProvider name:com.skyeye.plugin.resin.ResinTraceMetadataProvider@7fc2413d
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.google.httpclient.HttpClientTypeProvider name:com.skyeye.plugin.google.httpclient.HttpClientTypeProvider@2133814f
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.jdbc.postgresql.PostgreSqlTypeProvider name:com.skyeye.plugin.jdbc.postgresql.PostgreSqlTypeProvider@23f7d05d
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.mybatis.MyBatisMetadataProvider name:com.skyeye.plugin.mybatis.MyBatisMetadataProvider@1d082e88
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.resteasy.ResteasyTraceMetadataProvider name:com.skyeye.plugin.resteasy.ResteasyTraceMetadataProvider@2a32de6c
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.jdbc.mariadb.MariaDBTypeProvider name:com.skyeye.plugin.jdbc.mariadb.MariaDBTypeProvider@7f1302d6
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.thrift.ThriftTypeProvider name:com.skyeye.plugin.thrift.ThriftTypeProvider@4fe767f3
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.user.UserTypeProvider name:com.skyeye.plugin.user.UserTypeProvider@2fd6b6c7
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.redis.RedisTypeProvider name:com.skyeye.plugin.redis.RedisTypeProvider@5bfa9431
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.gson.GsonMetadataProvider name:com.skyeye.plugin.gson.GsonMetadataProvider@38c5cc4c
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.httpclient3.HttpClient3TypeProvider name:com.skyeye.plugin.httpclient3.HttpClient3TypeProvider@233fe9b6
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.hystrix.HystrixTraceMetadataProvider name:com.skyeye.plugin.hystrix.HystrixTraceMetadataProvider@3c72f59f
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.httpclient4.HttpClient4TypeProvider name:com.skyeye.plugin.httpclient4.HttpClient4TypeProvider@16e7dcfd
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.jdk.http.JdkHttpTypeProvider name:com.skyeye.plugin.jdk.http.JdkHttpTypeProvider@11a9e7c8
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.ning.asynchttpclient.NingAsyncHttpClientMetadataProvider name:com.skyeye.plugin.ning.asynchttpclient.NingAsyncHttpClientMetadataProvider@12d4bf7e
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.commons.dbcp.CommonsDbcpMetadataProvider name:com.skyeye.plugin.commons.dbcp.CommonsDbcpMetadataProvider@7219ec67
+2018-06-14 14:54:06 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.okhttp.OkHttpTypeProvider name:com.skyeye.plugin.okhttp.OkHttpTypeProvider@d706f19
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.jdbc.jtds.JtdsTypeProvider name:com.skyeye.plugin.jdbc.jtds.JtdsTypeProvider@2928854b
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.jdbc.cubrid.CubridTypeProvider name:com.skyeye.plugin.jdbc.cubrid.CubridTypeProvider@2f177a4b
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.vertx.VertxTypeProvider name:com.skyeye.plugin.vertx.VertxTypeProvider@61dd025
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.jdbc.mysql.MySqlTypeProvider name:com.skyeye.plugin.jdbc.mysql.MySqlTypeProvider@77167fb7
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.hikaricp.HikariCpMetadataProvider name:com.skyeye.plugin.hikaricp.HikariCpMetadataProvider@6973bf95
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.cxf.CxfPluginTraceMetadataProvider name:com.skyeye.plugin.cxf.CxfPluginTraceMetadataProvider@47542153
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.jdbc.oracle.OracleTypeProvider name:com.skyeye.plugin.jdbc.oracle.OracleTypeProvider@309e345f
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.jackson.JacksonTypeProvider name:com.skyeye.plugin.jackson.JacksonTypeProvider@4445629
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.struts.StrutsTraceMetadataProvider name:com.skyeye.plugin.struts.StrutsTraceMetadataProvider@4df50bcc
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Loading TraceMetadataProvider: com.skyeye.plugin.cassandra.CassandraTypeProvider name:com.skyeye.plugin.cassandra.CassandraTypeProvider@54c562f7
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Finished loading ServiceType:
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) TOMCAT(1010) from com.skyeye.plugin.tomcat.TomcatTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) TOMCAT_METHOD(1011) from com.skyeye.plugin.tomcat.TomcatTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) TOMCAT_SERVLET_FILTER(1012) from com.skyeye.plugin.tomcat.TomcatTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) JETTY(1030) from com.skyeye.plugin.jetty.JettyTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) JETTY_METHOD(1031) from com.skyeye.plugin.jetty.JettyTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) VERTX(1050) from com.skyeye.plugin.vertx.VertxTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) VERTX_INTERNAL(1051) from com.skyeye.plugin.vertx.VertxTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) VERTX_HTTP_SERVER(1052) from com.skyeye.plugin.vertx.VertxTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) VERTX_HTTP_SERVER_INTERNAL(1053) from com.skyeye.plugin.vertx.VertxTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) THRIFT_SERVER(1100) from com.skyeye.plugin.thrift.ThriftTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) THRIFT_SERVER_INTERNAL(1101) from com.skyeye.plugin.thrift.ThriftTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) DUBBO_PROVIDER(1110) from com.skyeye.plugin.dubbo.DubboTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) RESIN(1200) from com.skyeye.plugin.resin.ResinTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) RESIN_METHOD(1201) from com.skyeye.plugin.resin.ResinTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) SPRING_BOOT(1210) from com.skyeye.plugin.spring.boot.SpringBootTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) WEBLOGIC(1989) from com.skyeye.plugin.weblogic.WeblogicTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) WEBLOGIC_METHOD(1992) from com.skyeye.plugin.weblogic.WeblogicTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) WEBLOGIC_SERVLET_FILTER(1993) from com.skyeye.plugin.weblogic.WeblogicTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) MYSQL(2100) from com.skyeye.plugin.jdbc.mysql.MySqlTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) MYSQL_EXECUTE_QUERY(2101) from com.skyeye.plugin.jdbc.mysql.MySqlTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) MARIADB(2150) from com.skyeye.plugin.jdbc.mariadb.MariaDBTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) MARIADB_EXECUTE_QUERY(2151) from com.skyeye.plugin.jdbc.mariadb.MariaDBTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) MSSQL(2200) from com.skyeye.plugin.jdbc.jtds.JtdsTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) MSSQL_EXECUTE_QUERY(2201) from com.skyeye.plugin.jdbc.jtds.JtdsTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) ORACLE(2300) from com.skyeye.plugin.jdbc.oracle.OracleTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) ORACLE_EXECUTE_QUERY(2301) from com.skyeye.plugin.jdbc.oracle.OracleTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) CUBRID(2400) from com.skyeye.plugin.jdbc.cubrid.CubridTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) CUBRID_EXECUTE_QUERY(2401) from com.skyeye.plugin.jdbc.cubrid.CubridTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) POSTGRESQL(2500) from com.skyeye.plugin.jdbc.postgresql.PostgreSqlTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) POSTGRESQL_EXECUTE_QUERY(2501) from com.skyeye.plugin.jdbc.postgresql.PostgreSqlTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) CASSANDRA(2600) from com.skyeye.plugin.cassandra.CassandraTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) CASSANDRA_EXECUTE_QUERY(2601) from com.skyeye.plugin.cassandra.CassandraTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) GSON(5010) from com.skyeye.plugin.gson.GsonMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) JACKSON(5011) from com.skyeye.plugin.jackson.JacksonTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) JSON-LIB(5012) from com.skyeye.plugin.json_lib.JsonLibTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) SPRING_MVC(5051) from com.skyeye.plugin.spring.web.SpringWebMvcTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) SPRING_BEANS(5071) from com.skyeye.plugin.spring.beans.SpringBeansTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) IBATIS(5500) from com.skyeye.plugin.ibatis.IBatisMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) IBATIS_SPRING(5501) from com.skyeye.plugin.ibatis.IBatisMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) MYBATIS(5510) from com.skyeye.plugin.mybatis.MyBatisMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) RESTEASY(6011) from com.skyeye.plugin.resteasy.ResteasyTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) DBCP(6050) from com.skyeye.plugin.commons.dbcp.CommonsDbcpMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) DBCP2(6052) from com.skyeye.plugin.commons.dbcp2.CommonsDbcp2MetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) HIKARICP(6060) from com.skyeye.plugin.hikaricp.HikariCpMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) MEMCACHED(8050) from com.skyeye.plugin.arcus.ArcusTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) MEMCACHED_FUTURE_GET(8051) from com.skyeye.plugin.arcus.ArcusTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) ARCUS(8100) from com.skyeye.plugin.arcus.ArcusTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) ARCUS_FUTURE_GET(8101) from com.skyeye.plugin.arcus.ArcusTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) ARCUS_EHCACHE_FUTURE_GET(8102) from com.skyeye.plugin.arcus.ArcusTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) REDIS(8200) from com.skyeye.plugin.redis.RedisTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) ACTIVEMQ_CLIENT(8310) from com.skyeye.plugin.activemq.client.ActiveMQClientTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) ACTIVEMQ_CLIENT_INTERNAL(8311) from com.skyeye.plugin.activemq.client.ActiveMQClientTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) HTTP_CLIENT_3(9050) from com.skyeye.plugin.httpclient3.HttpClient3TypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) HTTP_CLIENT_3_INTERNAL(9051) from com.skyeye.plugin.httpclient3.HttpClient3TypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) HTTP_CLIENT_4(9052) from com.skyeye.plugin.httpclient4.HttpClient4TypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) HTTP_CLIENT_4_INTERNAL(9053) from com.skyeye.plugin.httpclient4.HttpClient4TypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) GOOGLE_HTTP_CLIENT_INTERNAL(9054) from com.skyeye.plugin.google.httpclient.HttpClientTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) JDK_HTTPURLCONNECTOR(9055) from com.skyeye.plugin.jdk.http.JdkHttpTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) ASYNC_HTTP_CLIENT(9056) from com.skyeye.plugin.ning.asynchttpclient.NingAsyncHttpClientMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) ASYNC_HTTP_CLIENT_INTERNAL(9057) from com.skyeye.plugin.ning.asynchttpclient.NingAsyncHttpClientMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) OK_HTTP_CLIENT(9058) from com.skyeye.plugin.okhttp.OkHttpTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) OK_HTTP_CLIENT_INTERNAL(9059) from com.skyeye.plugin.okhttp.OkHttpTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) CXF_CLIENT(9080) from com.skyeye.plugin.cxf.CxfPluginTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) THRIFT_CLIENT(9100) from com.skyeye.plugin.thrift.ThriftTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) THRIFT_CLIENT_INTERNAL(9101) from com.skyeye.plugin.thrift.ThriftTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) DUBBO_CONSUMER(9110) from com.skyeye.plugin.dubbo.DubboTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) DUBBO_REST_DISPATCHER(9111) from com.skyeye.plugin.dubbo.DubboTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) HYSTRIX_COMMAND(9120) from com.skyeye.plugin.hystrix.HystrixTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) HYSTRIX_COMMAND_INTERNAL(9121) from com.skyeye.plugin.hystrix.HystrixTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) VERTX_HTTP_CLIENT(9130) from com.skyeye.plugin.vertx.VertxTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) VERTX_HTTP_CLIENT_INTERNAL(9131) from com.skyeye.plugin.vertx.VertxTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) STRUTS(9901) from com.skyeye.plugin.struts.StrutsTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) STRUTS_ACTION(9902) from com.skyeye.plugin.struts.StrutsTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) STRUTS_REQUEST_DISPATCHER(9903) from com.skyeye.plugin.struts.StrutsTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) STRUTS_INTERCEPTOR(9904) from com.skyeye.plugin.struts.StrutsTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) STRUTS_RESULT_DISPATCHER(9905) from com.skyeye.plugin.struts.StrutsTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) Finished loading AnnotationKeys:
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) thrift.url(80) from com.skyeye.plugin.thrift.ThriftTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) thrift.args(81) from com.skyeye.plugin.thrift.ThriftTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) thrift.result(82) from com.skyeye.plugin.thrift.ThriftTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) dubbo.args(90) from com.skyeye.plugin.dubbo.DubboTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) dubbo.result(91) from com.skyeye.plugin.dubbo.DubboTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) dubbo.context(92) from com.skyeye.plugin.dubbo.DubboTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) activemq.broker.address(101) from com.skyeye.plugin.activemq.client.ActiveMQClientTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) activemq.message(102) from com.skyeye.plugin.activemq.client.ActiveMQClientTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) hystrix.command(110) from com.skyeye.plugin.hystrix.HystrixTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) hystrix.command.execution(111) from com.skyeye.plugin.hystrix.HystrixTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) hystrix.command.fallback.cause(112) from com.skyeye.plugin.hystrix.HystrixTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) cxf.operation(200) from com.skyeye.plugin.cxf.CxfPluginTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) cxf.args(201) from com.skyeye.plugin.cxf.CxfPluginTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) struts.args(901) from com.skyeye.plugin.struts.StrutsTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) spring.param(917) from com.skyeye.plugin.spring.beans.SpringBeansTraceMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) gson.json.length(9000) from com.skyeye.plugin.gson.GsonMetadataProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) jackson.json.length(9001) from com.skyeye.plugin.jackson.JacksonTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.trace.TraceMetadataLoader) json-lib.json.length(9002) from com.skyeye.plugin.json_lib.JsonLibTypeProvider
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:UNDEFINED
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:UNKNOWN
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:USER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:UNKNOWN_GROUP
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:TEST
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:COLLECTOR
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:ASYNC
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:STAND_ALONE
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:TEST_STAND_ALONE
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:UNAUTHORIZED
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:UNKNOWN_DB
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:UNKNOWN_DB
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:INTERNAL_METHOD
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:SPRING
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Default ServiceType:SPRING
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:SPRING_BEANS
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:SPRING
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:JETTY
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:JETTY_METHOD
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:TOMCAT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:TOMCAT_METHOD
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:TOMCAT_SERVLET_FILTER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:ACTIVEMQ_CLIENT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:ACTIVE_MQ_CLIENT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:ARCUS
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:ARCUS
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:ARCUS-EHCACHE
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:MEMCACHED
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:MEMCACHED
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:WEBLOGIC
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:WEBLOGIC_METHOD
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:WEBLOGIC_SERVLET_FILTER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:SPRING_BOOT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:DUBBO_PROVIDER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:DUBBO_CONSUMER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:DUBBO_REST_DISPATCHER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:IBATIS
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:IBATIS
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:DBCP2
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:JSON-LIB
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:RESIN
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:RESIN_METHOD
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:GOOGLE_HTTP_CLIENT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:POSTGRESQL
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:POSTGRESQL
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:MYBATIS
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:RESTEASY
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:MARIADB
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:MARIADB
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:THRIFT_SERVER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:THRIFT_CLIENT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:THRIFT_SERVER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:THRIFT_CLIENT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:REDIS
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:GSON
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:HTTP_CLIENT_3
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:HTTP_CLIENT_3
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:HYSTRIX_COMMAND
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:HYSTRIX_COMMAND
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:HTTP_CLIENT_4
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:HTTP_CLIENT_4
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:JDK_HTTPCONNECTOR
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:ASYNC_HTTP_CLIENT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:ASYNC_HTTP_CLIENT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:DBCP
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:OK_HTTP_CLIENT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:OK_HTTP_CLIENT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:MSSQLSERVER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:MSSQLSERVER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:CUBRID
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:CUBRID
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:VERTX
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:VERTX
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:VERTX_HTTP_SERVER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:VERTX_HTTP_SERVER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:VERTX_HTTP_CLIENT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:VERTX_HTTP_CLIENT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:MYSQL
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:MYSQL
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:HIKARICP
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:CXF_CLIENT
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:ORACLE
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:ORACLE
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:JACKSON
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:STRUTS
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:STRUTS_ACTION
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:STRUTS_INTERCEPTOR
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:STRUTS_REQUEST_DISPATCHER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:STRUTS_RESULT_DISPATCHER
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:CASSANDRA
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultServiceTypeRegistryService) add Plugin ServiceType:CASSANDRA
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=12, name='API}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=13, name='API-METADATA}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=14, name='RETURN_DATA}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=10015, name='API-TAG}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=10000010, name='API-METADATA-ERROR}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=10000011, name='API-METADATA-AGENT-INFO-NOT-FOUND}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=10000012, name='API-METADATA-IDENTIFIER-CHECK_ERROR}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=10000013, name='API-METADATA-NOT-FOUND}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=10000014, name='API-METADATA-DID-COLLSION}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=20, name='SQL-ID}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=21, name='SQL}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=22, name='SQL-METADATA}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=23, name='SQL-PARAM}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=24, name='SQL-BindValue}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=30, name='STRING_ID}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=40, name='http.url}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=41, name='http.param}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=42, name='http.entity}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=45, name='http.cookie}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=46, name='http.status.code}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=48, name='http.internal.display}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=49, name='http.io}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=100, name='message.queue.url}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-1, name='args[0]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-2, name='args[1]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-3, name='args[2]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-4, name='args[3]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-5, name='args[4]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-6, name='args[5]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-7, name='args[6]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-8, name='args[7]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-9, name='args[8]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-10, name='args[9]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-11, name='args[N]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-30, name='cached_args[0]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-31, name='cached_args[1]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-32, name='cached_args[2]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-33, name='cached_args[3]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-34, name='cached_args[4]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-35, name='cached_args[5]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-36, name='cached_args[6]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-37, name='cached_args[7]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-38, name='cached_args[8]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-39, name='cached_args[9]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-40, name='cached_args[N]}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-50, name='Exception}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-51, name='ExceptionClass}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-9999, name='UNKNOWN}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Default AnnotationKey:AnnotationKey{code=-100, name='Asynchronous Invocation}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=917, name='spring.param}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=101, name='activemq.broker.address}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=102, name='activemq.message}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=90, name='dubbo.args}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=92, name='dubbo.context}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=91, name='dubbo.result}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=9002, name='json-lib.json.length}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=80, name='thrift.url}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=81, name='thrift.args}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=82, name='thrift.result}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=9000, name='gson.json.length}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=110, name='hystrix.command}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=111, name='hystrix.command.execution}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=112, name='hystrix.command.fallback.cause}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=200, name='cxf.operation}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=201, name='cxf.args}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=9001, name='jackson.json.length}
+2018-06-14 14:54:07 [INFO ](com.skyeye.common.service.DefaultAnnotationKeyRegistryService) add Plugin AnnotationKey:AnnotationKey{code=901, name='struts.args}
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) classpath skyeye.config found. /u01/agent/skyeye.config
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) logPath:/u01/agent/log
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) skyeye version:1.6.1-SNAPSHOT
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.enable=true
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.instrument.engine=ASM
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.interceptorregistry.size=8192
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.collector.span.ip=172.27.113.17
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.collector.span.port=9996
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.collector.stat.ip=172.27.113.17
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.collector.stat.port=9995
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.collector.tcp.ip=172.27.113.17
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.collector.tcp.port=9994
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spandatasender.write.queue.size=5120
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spandatasender.socket.sendbuffersize=1048576
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spandatasender.socket.timeout=3000
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spandatasender.chunk.size=16384
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spandatasender.socket.type=OIO
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.statdatasender.write.queue.size=5120
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.statdatasender.socket.sendbuffersize=1048576
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.statdatasender.socket.timeout=3000
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.statdatasender.chunk.size=16384
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.statdatasender.socket.type=OIO
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tcpdatasender.command.accept.enable=true
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tcpdatasender.command.activethread.enable=true
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tcpdatasender.command.activethread.count.enable=true
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tcpdatasender.command.activethread.threaddump.enable=true
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tcpdatasender.command.activethread.threadlightdump.enable=true
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.pinpoint.activethread=true
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.pinpoint.datasource=false
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.callstack.max.depth=64
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.sqlcachesize=2048
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.tracesqlbindvalue=false
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.sampling.enable=true
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.sampling.rate=1
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.io.buffering.enable=true
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.io.buffering.buffersize=20
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jvm.collect.interval=1000
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jvm.vendor.name=null
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jvm.collect.detailed.metrics=false
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.agentInfo.send.retry.interval=300000
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.applicationservertype=null
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.include=
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.interceptor.exception.propagate=false
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) configuration loaded successfully.
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent JarPath:/u01/agent/skyeye-bootstrap-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent LibDir:/u01/agent/lib
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/metrics-jvm-3.1.2.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/log4j-1.2.16.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/skyeye-profiler-optional-jdk6-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/javassist-3.21.0-GA.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/skyeye-profiler-test-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/slf4j-api-1.7.21.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/skyeye-profiler-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/netty-3.10.6.Final.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/gson-2.8.0.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/skyeye-thrift-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/aopalliance-1.0.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/guava-19.0.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/slf4j-log4j12-1.7.21.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/libthrift-0.9.2.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/jline-1.0.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/asm-debug-all-5.1.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/fastjson-1.2.24.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/zookeeper-3.4.5.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/log4j.xml
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/skyeye-profiler-optional-jdk7-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/metrics-core-3.1.2.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/javax.inject-1.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/skyeye-rpc-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/guice-4.1.0.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/lib/
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/boot/skyeye-commons-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/boot/skyeye-bootstrap-core-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent Lib:file:/u01/agent/boot/skyeye-bootstrap-core-optional-1.6.1-SNAPSHOT.jar
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) agent config:/u01/agent/skyeye.config
+2018-06-14 14:54:07 [INFO ](com.skyeye.bootstrap.PinpointStarter) skyeye agent [com.skyeye.profiler.DefaultAgent] starting...
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.log4j.logging.transactioninfo=true
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans=true
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.name.pattern=null
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.class.pattern=null
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.annotation=null
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.[0-9]+(.scope|.base-packages|.name.pattern|.class.pattern|.annotation)={profiler.spring.beans.2.base-packages=com.yinhai, profiler.spring.beans.1.class.pattern=, profiler.spring.beans.1.scope=component-scan, profiler.spring.beans.2.class.pattern=, profiler.spring.beans.2.name.pattern=antstyle:*Controller,antstyle:*Service,antstyle:*Impl,antstyle:*Dao,antstyle:*ProxyFactoryBean, profiler.spring.beans.1.name.pattern=antstyle:*Controller,antstyle:*Service,antstyle:*Impl,antstyle:*Dao,antstyle:*ProxyFactoryBean, profiler.spring.beans.2.scope=post-processor, profiler.spring.beans.1.base-packages=com.yinhai, profiler.spring.beans.1.annotation=org.springframework.stereotype.Controller,org.springframework.stereotype.Service,org.springframework.stereotype.Repository}
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.mark.error=true
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.mark.error=true
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.mark.error=true
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jetty.enable=true
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jetty.excludeurl=
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tomcat.enable=true
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tomcat.conditional.transform=true
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tomcat.hidepinpointheader=true
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tomcat.tracerequestparam=true
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tomcat.excludeurl=/aa/test.html, /bb/exclude.html
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tomcat.realipheader=null
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tomcat.realipemptyvalue=null
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tomcat.excludemethod=
+2018-06-14 14:54:08 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tomcat.servletfilter.enable=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.activemq.client.enable=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.activemq.client.producer.enable=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.activemq.client.consumer.enable=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.activemq.client.destination.separator=
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.activemq.client.destination.exclude=
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.arcus=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.arcus.keytrace=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.memcached=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.memcached.keytrace=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.weblogic.enable=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.weblogic.excludeurl=/**/*.jpg,/**/*.png,/**/*.css,/**/*.js,/**/*.gif
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.tomcat.servletfilter.enable=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.springboot.enable=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.dubbo.enable=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.orm.ibatis=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.dbcp2=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.dbcp2.connectionclose=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.json.jsonlib=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.resin.enable=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.resin.bootstrap.main=
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.resin.tracerequestparam=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.resin.excludeurl=
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.resin.realipheader=null
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.resin.realipemptyvalue=null
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.resin.excludemethod=
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.resin.hidepinpointheader=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.resin.tracecookies=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.resin.cookie.sampling.rate=1
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.resin.cookie.dumptype=ALWAYS
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.google.httpclient.async=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.postgresql=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.postgresql.setautocommit=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.postgresql.commit=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.postgresql.rollback=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.maxsqlbindvaluesize=2048
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.orm.mybatis=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.logback.logging.transactioninfo=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.resteasy.enable=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.mariadb=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.mariadb.tracesqlbindvalue=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.mariadb.setautocommit=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.mariadb.commit=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.mariadb.rollback=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.thrift.client=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.thrift.client.async=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.thrift.processor=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.thrift.processor.async=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.thrift.service.args=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.thrift.service.result=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.entrypoint=
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.redis.pipeline=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.redis.io=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.json.gson=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.apache.httpclient3.param=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.apache.httpclient3.cookie=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.apache.httpclient3.cookie.dumptype=EXCEPTION
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.apache.httpclient3.cookie.sampling.rate=1
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.apache.httpclient3.entity=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.apache.httpclient3.entity.dumptype=EXCEPTION
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.apache.httpclient3.entity.sampling.rate=1
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.apache.httpclient3.io=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.hystrix=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.hystrix.command.num.anonymousInnerClass=3
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.dbcp=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.dbcp.connectionclose=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.okhttp.param=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.okhttp.cookie=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.okhttp.cookie.dumptype=EXCEPTION
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.okhttp.cookie.sampling.rate=1
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.okhttp.entity.statuscode=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.okhttp.async=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.jtds=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.jtds.tracesqlbindvalue=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.jtds.setautocommit=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.jtds.commit=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.jtds.rollback=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.cubrid=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.cubrid.tracesqlbindvalue=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.cubrid.setautocommit=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.cubrid.commit=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.cubrid.rollback=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.vertx.enable=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.vertx.http.server.enable=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.vertx.http.client.enable=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.mysql=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.mysql.tracesqlbindvalue=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.mysql.setautocommit=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.mysql.commit=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.mysql.rollback=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.hikaricp=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.hikaricp.connectionclose=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.cxf.client=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.cxf.client.hiddenParams=
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.oracle=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.oracle.tracesqlbindvalue=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.oracle.setautocommit=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.oracle.commit=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.jdbc.oracle.rollback=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.json.jackson=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.struts.enable=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.struts.interceptor.enable=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.struts.mark.error=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.cassandra=true
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.cassandra.tracecqlbindvalue=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) bytecode.dump.enable=false
+2018-06-14 14:54:09 [INFO ](com.skyeye.bootstrap.PinpointStarter) pinpoint agent started normally.
+<Jun 14, 2018 2:54:09 PM CST> <Info> <Security> <BEA-090905> <Disabling the CryptoJ JCE Provider self-integrity check for better startup performance. To enable this check, specify -Dweblogic.security.allowCryptoJDefaultJCEVerification=true.> 
+<Jun 14, 2018 2:54:09 PM CST> <Info> <Security> <BEA-090906> <Changing the default Random Number Generator in RSA CryptoJ from ECDRBG128 to HMACDRBG. To disable this change, specify -Dweblogic.security.allowCryptoJDefaultPRNG=true.> 
+<Jun 14, 2018 2:54:10 PM CST> <Info> <WebLogicServer> <BEA-000377> <Starting WebLogic Server with Java HotSpot(TM) 64-Bit Server VM Version 25.144-b01 from Oracle Corporation.> 
+<Jun 14, 2018 2:54:10 PM CST> <Info> <RCM> <BEA-2165021> <"ResourceManagement" is not enabled in this JVM. Enable "ResourceManagement" to use the WebLogic Server "Resource Consumption Management" feature. To enable "ResourceManagement", you must specify the following JVM options in the WebLogic Server instance in which the JVM runs: -XX:+UnlockCommercialFeatures -XX:+ResourceManagement.> 
+<Jun 14, 2018 2:54:11 PM CST> <Info> <Management> <BEA-141107> <Version: WebLogic Server 12.2.1.3.0 Thu Aug 17 13:39:49 PDT 2017 1882952> 
+<Jun 14, 2018 2:54:12 PM CST> <Notice> <WebLogicServer> <BEA-000365> <Server state changed to STARTING.> 
+<Jun 14, 2018 2:54:12 PM CST> <Info> <WorkManager> <BEA-002900> <Initializing self-tuning thread pool.> 
+<Jun 14, 2018 2:54:12 PM CST> <Info> <WorkManager> <BEA-002942> <CMM memory level becomes 0. Setting standby thread pool size to 256.> 
+<Jun 14, 2018 2:54:13,501 PM CST> <Notice> <Log Management> <BEA-170019> <The server log file weblogic.logging.FileStreamHandler instance=853025644
+Current log file=/u01/Middleware/user_projects/domains/base_domain/servers/app-test/logs/app-test.log
+Rotation dir=/u01/Middleware/user_projects/domains/base_domain/servers/app-test/logs
+ is opened. All server side log events will be written to this file.> 
+<Jun 14, 2018 2:54:15,001 PM CST> <Notice> <Security> <BEA-090946> <Security pre-initializing using security realm: myrealm> 
+<Jun 14, 2018 2:54:15,505 PM CST> <Notice> <Security> <BEA-090947> <Security post-initializing using security realm: myrealm> 
+<Jun 14, 2018 2:54:18,161 PM CST> <Notice> <Security> <BEA-090082> <Security initialized using administrative security realm: myrealm> 
+<Jun 14, 2018 2:54:18,381 PM CST> <Notice> <JMX> <BEA-149512> <JMX Connector Server started at service:jmx:iiop://172.27.109.10:7011/jndi/weblogic.management.mbeanservers.runtime.> 
+<Jun 14, 2018 2:54:20,084 PM CST> <Notice> <WebLogicServer> <BEA-000365> <Server state changed to STANDBY.> 
+<Jun 14, 2018 2:54:20,086 PM CST> <Notice> <WebLogicServer> <BEA-000365> <Server state changed to STARTING.> 
+<Jun 14, 2018 2:54:20,157 PM CST> <Notice> <Log Management> <BEA-170036> <The Logging monitoring service timer has started to check for logged message counts every 30 seconds.> 
+<Jun 14, 2018 2:54:20,348 PM CST> <Notice> <Log Management> <BEA-170027> <The server has successfully established a connection with the Domain level Diagnostic Service.> 
+<Jun 14, 2018 2:54:21,108 PM CST> <Notice> <WebLogicServer> <BEA-000365> <Server state changed to ADMIN.> 
+<Jun 14, 2018 2:54:21,188 PM CST> <Notice> <WebLogicServer> <BEA-000365> <Server state changed to RESUMING.> 
+<Jun 14, 2018 2:54:21,263 PM CST> <Warning> <Server> <BEA-002611> <The hostname "localhost", maps to multiple IP addresses: 127.0.0.1, 0:0:0:0:0:0:0:1.> 
+<Jun 14, 2018 2:54:21,264 PM CST> <Notice> <Server> <BEA-002613> <Channel "Default[1]" is now listening on 0:0:0:0:0:0:0:1%lo:7011 for protocols iiop, t3, ldap, snmp, http.> 
+<Jun 14, 2018 2:54:21,265 PM CST> <Notice> <Server> <BEA-002613> <Channel "Default" is now listening on 172.27.109.10:7011 for protocols iiop, t3, ldap, snmp, http.> 
+<Jun 14, 2018 2:54:21,265 PM CST> <Notice> <WebLogicServer> <BEA-000330> <Started the WebLogic Server Managed Server "app-test" for domain "base_domain" running in production mode.> 
+<Jun 14, 2018 2:54:21,265 PM CST> <Notice> <Server> <BEA-002613> <Channel "Default[2]" is now listening on 127.0.0.1:7011 for protocols iiop, t3, ldap, snmp, http.> 
+<Jun 14, 2018 2:54:21,265 PM CST> <Notice> <Server> <BEA-002613> <Channel "Default[1]" is now listening on 0:0:0:0:0:0:0:1%lo:7011 for protocols iiop, t3, ldap, snmp, http.> 
+<Jun 14, 2018 2:54:21,265 PM CST> <Notice> <Server> <BEA-002613> <Channel "Default" is now listening on 172.27.109.10:7011 for protocols iiop, t3, ldap, snmp, http.> 
+<Jun 14, 2018 2:54:21,266 PM CST> <Notice> <Server> <BEA-002613> <Channel "Default[2]" is now listening on 127.0.0.1:7011 for protocols iiop, t3, ldap, snmp, http.> 
+<Jun 14, 2018 2:54:21,290 PM CST> <Notice> <WebLogicServer> <BEA-000360> <The server started in RUNNING mode.> 
+<Jun 14, 2018 2:54:21,304 PM CST> <Notice> <WebLogicServer> <BEA-000365> <Server state changed to RUNNING.> 
+Jun 14, 2018 3:01:31 PM org.springframework.web.context.ContextLoader initWebApplicationContext
+INFO: Root WebApplicationContext: initialization started
+Jun 14, 2018 3:01:31 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing Root WebApplicationContext: startup date [Thu Jun 14 15:01:31 CST 2018]; root of context hierarchy
+2018-06-14 15:01:31 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.name.pattern=null
+2018-06-14 15:01:31 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.class.pattern=null
+2018-06-14 15:01:31 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.annotation=null
+2018-06-14 15:01:31 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.[0-9]+(.scope|.base-packages|.name.pattern|.class.pattern|.annotation)={profiler.spring.beans.2.base-packages=com.yinhai, profiler.spring.beans.1.class.pattern=, profiler.spring.beans.1.scope=component-scan, profiler.spring.beans.2.class.pattern=, profiler.spring.beans.2.name.pattern=antstyle:*Controller,antstyle:*Service,antstyle:*Impl,antstyle:*Dao,antstyle:*ProxyFactoryBean, profiler.spring.beans.1.name.pattern=antstyle:*Controller,antstyle:*Service,antstyle:*Impl,antstyle:*Dao,antstyle:*ProxyFactoryBean, profiler.spring.beans.2.scope=post-processor, profiler.spring.beans.1.base-packages=com.yinhai, profiler.spring.beans.1.annotation=org.springframework.stereotype.Controller,org.springframework.stereotype.Service,org.springframework.stereotype.Repository}
+2018-06-14 15:01:31 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.name.pattern=null
+2018-06-14 15:01:31 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.class.pattern=null
+2018-06-14 15:01:31 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.annotation=null
+2018-06-14 15:01:31 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.[0-9]+(.scope|.base-packages|.name.pattern|.class.pattern|.annotation)={profiler.spring.beans.2.base-packages=com.yinhai, profiler.spring.beans.1.class.pattern=, profiler.spring.beans.1.scope=component-scan, profiler.spring.beans.2.class.pattern=, profiler.spring.beans.2.name.pattern=antstyle:*Controller,antstyle:*Service,antstyle:*Impl,antstyle:*Dao,antstyle:*ProxyFactoryBean, profiler.spring.beans.1.name.pattern=antstyle:*Controller,antstyle:*Service,antstyle:*Impl,antstyle:*Dao,antstyle:*ProxyFactoryBean, profiler.spring.beans.2.scope=post-processor, profiler.spring.beans.1.base-packages=com.yinhai, profiler.spring.beans.1.annotation=org.springframework.stereotype.Controller,org.springframework.stereotype.Service,org.springframework.stereotype.Repository}
+Jun 14, 2018 3:01:31 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [app-context.xml]
+Jun 14, 2018 3:01:31 PM org.springframework.web.context.ContextLoader initWebApplicationContext
+INFO: Root WebApplicationContext: initialization completed in 372 ms
+Jun 14, 2018 3:02:03 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'dispatcherServlet': initialization started
+Jun 14, 2018 3:02:03 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Thu Jun 14 15:02:03 CST 2018]; parent: Root WebApplicationContext
+Jun 14, 2018 3:02:03 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [spring-mvc.xml]
+2018-06-14 15:02:03 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.name.pattern=null
+2018-06-14 15:02:03 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.class.pattern=null
+2018-06-14 15:02:03 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.annotation=null
+2018-06-14 15:02:03 [INFO ](com.skyeye.bootstrap.config.DefaultProfilerConfig) profiler.spring.beans.[0-9]+(.scope|.base-packages|.name.pattern|.class.pattern|.annotation)={profiler.spring.beans.2.base-packages=com.yinhai, profiler.spring.beans.1.class.pattern=, profiler.spring.beans.1.scope=component-scan, profiler.spring.beans.2.class.pattern=, profiler.spring.beans.2.name.pattern=antstyle:*Controller,antstyle:*Service,antstyle:*Impl,antstyle:*Dao,antstyle:*ProxyFactoryBean, profiler.spring.beans.1.name.pattern=antstyle:*Controller,antstyle:*Service,antstyle:*Impl,antstyle:*Dao,antstyle:*ProxyFactoryBean, profiler.spring.beans.2.scope=post-processor, profiler.spring.beans.1.base-packages=com.yinhai, profiler.spring.beans.1.annotation=org.springframework.stereotype.Controller,org.springframework.stereotype.Service,org.springframework.stereotype.Repository}
+Jun 14, 2018 3:02:03 PM org.springframework.beans.factory.support.DefaultListableBeanFactory registerBeanDefinition
+INFO: Overriding bean definition for bean 'mvcPathMatcher' with a different definition: replacing [Root bean: class [org.springframework.util.AntPathMatcher]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration; factoryMethodName=mvcPathMatcher; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]]
+Jun 14, 2018 3:02:03 PM org.springframework.beans.factory.support.DefaultListableBeanFactory registerBeanDefinition
+INFO: Overriding bean definition for bean 'mvcUrlPathHelper' with a different definition: replacing [Root bean: class [org.springframework.web.util.UrlPathHelper]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration; factoryMethodName=mvcUrlPathHelper; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]]
+Jun 14, 2018 3:02:03 PM org.springframework.beans.factory.support.DefaultListableBeanFactory registerBeanDefinition
+INFO: Overriding bean definition for bean 'mvcContentNegotiationManager' with a different definition: replacing [Root bean: class [org.springframework.web.accept.ContentNegotiationManagerFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration; factoryMethodName=mvcContentNegotiationManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]]
+Jun 14, 2018 3:02:03 PM org.springframework.beans.factory.support.DefaultListableBeanFactory registerBeanDefinition
+INFO: Overriding bean definition for bean 'mvcResourceUrlProvider' with a different definition: replacing [Root bean: class [org.springframework.web.servlet.resource.ResourceUrlProvider]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration; factoryMethodName=mvcResourceUrlProvider; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]]
+Jun 14, 2018 3:02:03 PM org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader isOverriddenByExistingDefinition
+INFO: Skipping bean definition for [BeanMethod:name=mvcUriComponentsContributor,declaringClass=org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport]: a definition for bean 'mvcUriComponentsContributor' already exists. This top-level bean definition is considered as an override.
+Jun 14, 2018 3:02:03 PM org.springframework.beans.factory.support.DefaultListableBeanFactory registerBeanDefinition
+INFO: Overriding bean definition for bean 'mvcHandlerMappingIntrospector' with a different definition: replacing [Root bean: class [org.springframework.web.servlet.handler.HandlerMappingIntrospector]; scope=; abstract=false; lazyInit=true; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=true; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration; factoryMethodName=mvcHandlerMappingIntrospector; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]]
+Jun 14, 2018 3:02:03 PM org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor <init>
+INFO: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/testHttps]}" onto public java.lang.Object com.wujie.DemoCtrl.testHttps() throws java.lang.Exception
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/testHttp]}" onto public java.lang.Object com.wujie.DemoCtrl.testHttp() throws java.lang.Exception
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/downloadFileForMVC]}" onto public org.springframework.http.ResponseEntity<byte[]> com.wujie.DemoCtrl.downloadFileForMVC() throws java.lang.Exception
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/downloadFileForAll]}" onto public void com.wujie.DemoCtrl.downloadFileForAll(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/download]}" onto public org.springframework.http.ResponseEntity<byte[]> com.wujie.DemoCtrl.downloadFile1() throws java.io.IOException
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/uploadFile]}" onto public java.lang.Object com.wujie.DemoCtrl.fileUpload(javax.servlet.http.HttpServletRequest) throws java.lang.Exception
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Thu Jun 14 15:02:03 CST 2018]; parent: Root WebApplicationContext
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Thu Jun 14 15:02:03 CST 2018]; parent: Root WebApplicationContext
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/statics/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/*.dll] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/*.exe] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/testHttps]}" onto public java.lang.Object com.wujie.DemoCtrl.testHttps() throws java.lang.Exception
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/testHttp]}" onto public java.lang.Object com.wujie.DemoCtrl.testHttp() throws java.lang.Exception
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/downloadFileForMVC]}" onto public org.springframework.http.ResponseEntity<byte[]> com.wujie.DemoCtrl.downloadFileForMVC() throws java.lang.Exception
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/downloadFileForAll]}" onto public void com.wujie.DemoCtrl.downloadFileForAll(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/download]}" onto public org.springframework.http.ResponseEntity<byte[]> com.wujie.DemoCtrl.downloadFile1() throws java.io.IOException
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/uploadFile]}" onto public java.lang.Object com.wujie.DemoCtrl.fileUpload(javax.servlet.http.HttpServletRequest) throws java.lang.Exception
+Jun 14, 2018 3:02:04 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Thu Jun 14 15:02:03 CST 2018]; parent: Root WebApplicationContext
+Jun 14, 2018 3:02:04 PM org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler initialize
+INFO: Initializing ExecutorService  'defaultSockJsTaskScheduler'
+Jun 14, 2018 3:02:05 PM org.springframework.web.socket.server.support.WebSocketHandlerMapping registerHandler
+INFO: Mapped URL path [/socket/testHandler] onto handler of type [class org.springframework.web.socket.server.support.WebSocketHttpRequestHandler]
+Jun 14, 2018 3:02:05 PM org.springframework.web.socket.server.support.WebSocketHandlerMapping registerHandler
+INFO: Mapped URL path [/sockjs/testHandler/**] onto handler of type [class org.springframework.web.socket.sockjs.support.SockJsHttpRequestHandler]
+Jun 14, 2018 3:02:05 PM org.springframework.context.support.DefaultLifecycleProcessor start
+INFO: Starting beans in phase 2147483647
+Jun 14, 2018 3:02:05 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'dispatcherServlet': initialization completed in 1759 ms
++++++++++++++++++++++++++++++++++++++++++++++++
+/u01/certs/trustStore.jks
++++++++++++++++++++++++++++++++++++++++++++++++
+<Jun 14, 2018 3:02:07,470 PM CST> <Notice> <Security> <BEA-090171> <Loading the identity certificate and private key stored under the alias DemoIdentity from the jks keystore file /u01/Middleware/user_projects/domains/base_domain/security/DemoIdentity.jks.> 
+<Jun 14, 2018 3:02:07,485 PM CST> <Alert> <Security> <BEA-090153> <Demo identity certificate is used in production mode: [
+[
+  Version: V3
+  Subject: CN=yhapp1, OU=FOR TESTING ONLY, O=MyOrganization, L=MyTown, ST=MyState, C=US
+  Signature Algorithm: SHA256withRSA, OID = 1.2.840.113549.1.1.11
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 29441836742821752285803200221423245436874162670402137555367487010471112369517494337385927582308366270849963158684789063660659630937696738020779296325273049028505955547851330608875875172665864500633380454471081165095862804336312170975261970755461488449145304121026298358867897393408819459230560937945964763395013964349924376697704700831829472852381606594354196301901977715252034953088290107660989032465805607918619748357697738681022327578753987491466829075822965101314107880898112228965600547603084387666147678695790343694802228840218397581600124482522174060646072659071617642494554692016087657455498327065922014819189
+  public exponent: 65537
+  Validity: [From: Fri Dec 01 14:51:41 CST 2017,
+               To: Thu Dec 02 14:51:41 CST 2032]
+  Issuer: CN=CertGenCA, OU=FOR TESTING ONLY, O=MyOrganization, L=MyTown, ST=MyState, C=US
+  SerialNumber: [   -363ba5d7 cd3bde3b 8dd7cc7a c99ada16]
+
+Certificate Extensions: 3
+[1]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 34 38 FD 45 D8 80 CF C7   D2 E8 DF 1D F8 A1 39 B0  48.E..........9.
+0010: 11 88 00 6A                                        ...j
+]
+]
+
+[2]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Non_repudiation
+  Key_Encipherment
+  Data_Encipherment
+  Key_Agreement
+]
+
+[3]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 7B F9 EC 48 47 99 01 17   31 04 B5 D5 BC 1C DF 57  ...HG...1......W
+0010: 25 C1 6F A2                                        %.o.
+]
+]
+
+]
+  Algorithm: [SHA256withRSA]
+  Signature:
+0000: 6C 2B 26 71 8D 89 C1 A3   0E 73 49 9B 0B F8 DF 02  l+&q.....sI.....
+0010: B5 03 FB 12 97 A7 4D A8   6A C8 72 DB C0 83 4D 86  ......M.j.r...M.
+0020: 74 58 5D 91 FD 4B C7 28   A0 54 A7 E1 AF 96 AA 5D  tX]..K.(.T.....]
+0030: BB 8A D9 23 8B 1F 8C DE   AD DA 9E 3A 17 D5 43 04  ...#.......:..C.
+0040: 28 36 30 BE DD CF 1E EB   2F 1C 6F 4A 9D 1A F8 01  (60...../.oJ....
+0050: 22 A5 FF E5 E1 45 78 79   C1 0D FD 7E 71 31 97 20  "....Exy....q1. 
+0060: 0B 9D 41 25 F3 3C 4D E1   48 E1 BD 04 5C 5B 3B F4  ..A%.<M.H...\[;.
+0070: 67 4E 7A CB 7A F6 89 8D   DB C0 11 AD 82 6A 53 3F  gNz.z........jS?
+0080: 2B 37 D2 00 E4 A3 7C FE   02 6B 93 5C 0E 3B 80 6D  +7.......k.\.;.m
+0090: FC 79 63 99 D2 2A FA 2C   95 9C D5 AA 8B C3 5B 5E  .yc..*.,......[^
+00A0: 66 9A E2 CB B1 57 E0 32   ED B2 7F C2 47 8E D4 1B  f....W.2....G...
+00B0: 40 4D DB EE 27 D9 97 85   4E 5D CB 77 39 CC 7C 2C  @M..'...N].w9..,
+00C0: 17 BB 54 14 57 8D 1D A7   AE BD 3A 10 8A 9F 4D 20  ..T.W.....:...M 
+00D0: 5D 0A DD F2 21 79 87 36   09 EF 94 B1 A1 9C 91 68  ]...!y.6.......h
+00E0: 41 F4 B5 B9 33 0A C2 EE   47 F3 81 9C AE 4E 11 74  A...3...G....N.t
+00F0: C9 36 63 EE A5 4E 93 3D   8F 91 14 E7 BC 24 6E 37  .6c..N.=.....$n7
+
+] The system is vulnerable to security attacks, since the server private key is available to the public.> 
+<Jun 14, 2018 3:02:07,485 PM CST> <Notice> <Security> <BEA-090169> <Loading trusted certificates from the jks keystore file /u01/Middleware/wlserver/server/lib/DemoTrust.jks.> 
+<Jun 14, 2018 3:02:07,487 PM CST> <Notice> <Security> <BEA-090169> <Loading trusted certificates from the jks keystore file /u01/jdk1.8.0_144/jre/lib/security/cacerts.> 
+<Jun 14, 2018 3:02:07,491 PM CST> <Alert> <Security> <BEA-090152> <Demo trusted CA certificate is being used in production mode: [
+[
+  Version: V3
+  Subject: CN=CertGenCA, OU=FOR TESTING ONLY, O=MyOrganization, L=MyTown, ST=MyState, C=US
+  Signature Algorithm: SHA256withRSA, OID = 1.2.840.113549.1.1.11
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 21569708395943251187594674016571604098921772745632282565929962814298138584591157613649992982592658748355964560637259269459381120165962674847997186601844952950794343884378508077250725387979264156405992230284901283444196168994202670671450098028002820729882379283494630302003296180454013575703696190719968922095992809718845192136877316024285273738556979086501184481229174883470885039602384578448109344178846134501578736532042806069180907098975317661162739134415281135882151855357804342112417305346131916129115886340854713286486175081106238445832240131690537019111854259217532593165348893830947166922845648303005469444649
+  public exponent: 65537
+  Validity: [From: Sat Dec 01 11:07:51 CST 2012,
+               To: Thu Dec 02 11:07:51 CST 2032]
+  Issuer: CN=CertGenCA, OU=FOR TESTING ONLY, O=MyOrganization, L=MyTown, ST=MyState, C=US
+  SerialNumber: [    40044886 c441ef3b 643a8066 409afca0]
+
+Certificate Extensions: 3
+[1]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:1
+]
+
+[2]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  Key_CertSign
+]
+
+[3]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 34 38 FD 45 D8 80 CF C7   D2 E8 DF 1D F8 A1 39 B0  48.E..........9.
+0010: 11 88 00 6A                                        ...j
+]
+]
+
+]
+  Algorithm: [SHA256withRSA]
+  Signature:
+0000: 17 69 74 CF CB 96 44 33   17 B3 70 0F 2A FF A8 63  .it...D3..p.*..c
+0010: CC 7A C8 CD 74 59 99 DE   10 16 FE 3D 17 00 71 B8  .z..tY.....=..q.
+0020: B0 FC C4 3F B6 B0 6D 77   78 9F 83 9B EA 22 A3 DA  ...?..mwx...."..
+0030: D7 35 00 D6 C5 F3 37 F1   7C 28 DF AA E8 2D 2A 13  .5....7..(...-*.
+0040: 9C 38 63 B7 08 D2 0E 0D   20 93 86 3D A2 F0 86 B9  .8c..... ..=....
+0050: 2B B4 6A 3F C6 FB 61 77   36 EE 60 07 BE C2 0E E4  +.j?..aw6.`.....
+0060: 33 0C E8 08 B1 3A 25 DC   3B E2 47 30 F1 46 43 06  3....:%.;.G0.FC.
+0070: 85 EE AB 3B 65 29 12 35   D4 D9 A8 EC 90 DB 60 6A  ...;e).5......`j
+0080: 4D 13 99 EE BD 29 AA BB   1F 96 C9 88 F3 E3 63 34  M....)........c4
+0090: 73 75 D4 5D EE B7 26 CD   78 E9 AA 1E B8 42 15 01  su.]..&.x....B..
+00A0: F3 D9 2A 64 C4 70 1D 1E   E5 98 EF 1E 78 1F 6C DF  ..*d.p......x.l.
+00B0: 7D FF 4B DD 7A 53 B2 C8   0E 0D 27 27 40 DB 8D 10  ..K.zS....''@...
+00C0: 47 5B 2E F4 74 89 85 2A   1B 6A 6A 3F 65 D9 25 2B  G[..t..*.jj?e.%+
+00D0: 93 A5 33 CE 03 CC 8E 64   E1 9F F1 3C A4 AB 0F C5  ..3....d...<....
+00E0: 28 36 46 B9 F4 24 69 0A   38 E9 A6 73 92 68 AC 79  (6F..$i.8..s.h.y
+00F0: F5 E1 D7 CB D8 FF FE 15   F7 B8 39 33 D3 66 03 17  ..........93.f..
+
+]. The system is vulnerable to security attacks, since it trusts certificates signed by the demo trusted CA.> 
+<Jun 14, 2018 3:02:07,596 PM CST> <Error> <HTTP> <BEA-101017> <[ServletContext@383496991[app:demo module:demo.war path:null spec-version:3.1]] Root cause of ServletException.
+org.apache.cxf.service.factory.ServiceConstructionException: Failed to create service.
+	at org.apache.cxf.wsdl11.WSDLServiceFactory.<init>(WSDLServiceFactory.java:76)
+	at org.apache.cxf.endpoint.dynamic.DynamicClientFactory.createClient(DynamicClientFactory.java:296)
+	at org.apache.cxf.endpoint.dynamic.DynamicClientFactory.createClient(DynamicClientFactory.java:241)
+	at org.apache.cxf.endpoint.dynamic.DynamicClientFactory.createClient(DynamicClientFactory.java:234)
+	at org.apache.cxf.endpoint.dynamic.DynamicClientFactory.createClient(DynamicClientFactory.java:189)
+	Truncated. see log file for complete stacktrace
+Caused By: javax.wsdl.WSDLException: WSDLException: faultCode=PARSER_ERROR: Error reading source with PublicId: https://172.27.109.201/yhbus/services/yinHaiBusiness?wsdl: javax.net.ssl.SSLHandshakeException: General SSLEngine problem
+	at oracle.j2ee.ws.wsdl.xml.WSDLReaderImpl.readWSDL(WSDLReaderImpl.java:380)
+	at oracle.j2ee.ws.wsdl.xml.WSDLReaderImpl.readWSDL(WSDLReaderImpl.java:331)
+	at oracle.j2ee.ws.wsdl.xml.WSDLReaderImpl.readWSDL(WSDLReaderImpl.java:315)
+	at org.apache.cxf.wsdl11.WSDLManagerImpl.loadDefinition(WSDLManagerImpl.java:238)
+	at org.apache.cxf.wsdl11.WSDLManagerImpl.getDefinition(WSDLManagerImpl.java:163)
+	Truncated. see log file for complete stacktrace
+Caused By: javax.net.ssl.SSLHandshakeException: General SSLEngine problem
+	at sun.security.ssl.Handshaker.checkThrown(Handshaker.java:1478)
+	at sun.security.ssl.SSLEngineImpl.checkTaskThrown(SSLEngineImpl.java:535)
+	at sun.security.ssl.SSLEngineImpl.writeAppRecord(SSLEngineImpl.java:1214)
+	at sun.security.ssl.SSLEngineImpl.wrap(SSLEngineImpl.java:1186)
+	at javax.net.ssl.SSLEngine.wrap(SSLEngine.java:469)
+	Truncated. see log file for complete stacktrace
+Caused By: javax.net.ssl.SSLHandshakeException: General SSLEngine problem
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1728)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:304)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1514)
+	Truncated. see log file for complete stacktrace
+Caused By: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:397)
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:302)
+	at sun.security.validator.Validator.validate(Validator.java:260)
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+	Truncated. see log file for complete stacktrace
+Caused By: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:141)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:126)
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:392)
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:302)
+	Truncated. see log file for complete stacktrace
+> 
+Jun 14, 2018 3:04:36 PM org.springframework.web.context.support.XmlWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Thu Jun 14 15:02:03 CST 2018]; parent: Root WebApplicationContext
+Jun 14, 2018 3:04:36 PM org.springframework.context.support.DefaultLifecycleProcessor stop
+INFO: Stopping beans in phase 2147483647
+Jun 14, 2018 3:04:36 PM org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler shutdown
+INFO: Shutting down ExecutorService 'defaultSockJsTaskScheduler'
+Jun 14, 2018 3:04:36 PM org.springframework.web.context.support.XmlWebApplicationContext doClose
+INFO: Closing Root WebApplicationContext: startup date [Thu Jun 14 15:01:31 CST 2018]; root of context hierarchy
+Jun 14, 2018 3:04:47 PM org.springframework.web.context.ContextLoader initWebApplicationContext
+INFO: Root WebApplicationContext: initialization started
+Jun 14, 2018 3:04:47 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing Root WebApplicationContext: startup date [Thu Jun 14 15:04:47 CST 2018]; root of context hierarchy
+Jun 14, 2018 3:04:47 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [app-context.xml]
+Jun 14, 2018 3:04:48 PM org.springframework.web.context.ContextLoader initWebApplicationContext
+INFO: Root WebApplicationContext: initialization completed in 19 ms
+Jun 14, 2018 3:05:44 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'dispatcherServlet': initialization started
+Jun 14, 2018 3:05:44 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Thu Jun 14 15:05:44 CST 2018]; parent: Root WebApplicationContext
+Jun 14, 2018 3:05:44 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [spring-mvc.xml]
+Jun 14, 2018 3:05:44 PM org.springframework.beans.factory.support.DefaultListableBeanFactory registerBeanDefinition
+INFO: Overriding bean definition for bean 'mvcPathMatcher' with a different definition: replacing [Root bean: class [org.springframework.util.AntPathMatcher]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration; factoryMethodName=mvcPathMatcher; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]]
+Jun 14, 2018 3:05:44 PM org.springframework.beans.factory.support.DefaultListableBeanFactory registerBeanDefinition
+INFO: Overriding bean definition for bean 'mvcUrlPathHelper' with a different definition: replacing [Root bean: class [org.springframework.web.util.UrlPathHelper]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration; factoryMethodName=mvcUrlPathHelper; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]]
+Jun 14, 2018 3:05:44 PM org.springframework.beans.factory.support.DefaultListableBeanFactory registerBeanDefinition
+INFO: Overriding bean definition for bean 'mvcContentNegotiationManager' with a different definition: replacing [Root bean: class [org.springframework.web.accept.ContentNegotiationManagerFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration; factoryMethodName=mvcContentNegotiationManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]]
+Jun 14, 2018 3:05:44 PM org.springframework.beans.factory.support.DefaultListableBeanFactory registerBeanDefinition
+INFO: Overriding bean definition for bean 'mvcResourceUrlProvider' with a different definition: replacing [Root bean: class [org.springframework.web.servlet.resource.ResourceUrlProvider]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration; factoryMethodName=mvcResourceUrlProvider; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]]
+Jun 14, 2018 3:05:44 PM org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader isOverriddenByExistingDefinition
+INFO: Skipping bean definition for [BeanMethod:name=mvcUriComponentsContributor,declaringClass=org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport]: a definition for bean 'mvcUriComponentsContributor' already exists. This top-level bean definition is considered as an override.
+Jun 14, 2018 3:05:44 PM org.springframework.beans.factory.support.DefaultListableBeanFactory registerBeanDefinition
+INFO: Overriding bean definition for bean 'mvcHandlerMappingIntrospector' with a different definition: replacing [Root bean: class [org.springframework.web.servlet.handler.HandlerMappingIntrospector]; scope=; abstract=false; lazyInit=true; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=true; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration; factoryMethodName=mvcHandlerMappingIntrospector; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]]
+Jun 14, 2018 3:05:44 PM org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor <init>
+INFO: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+Jun 14, 2018 3:05:44 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/testHttps]}" onto public java.lang.Object com.wujie.DemoCtrl.testHttps() throws java.lang.Exception
+Jun 14, 2018 3:05:44 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/testHttp]}" onto public java.lang.Object com.wujie.DemoCtrl.testHttp() throws java.lang.Exception
+Jun 14, 2018 3:05:44 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/downloadFileForMVC]}" onto public org.springframework.http.ResponseEntity<byte[]> com.wujie.DemoCtrl.downloadFileForMVC() throws java.lang.Exception
+Jun 14, 2018 3:05:44 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/downloadFileForAll]}" onto public void com.wujie.DemoCtrl.downloadFileForAll(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+Jun 14, 2018 3:05:44 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/download]}" onto public org.springframework.http.ResponseEntity<byte[]> com.wujie.DemoCtrl.downloadFile1() throws java.io.IOException
+Jun 14, 2018 3:05:44 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/uploadFile]}" onto public java.lang.Object com.wujie.DemoCtrl.fileUpload(javax.servlet.http.HttpServletRequest) throws java.lang.Exception
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Thu Jun 14 15:05:44 CST 2018]; parent: Root WebApplicationContext
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Thu Jun 14 15:05:44 CST 2018]; parent: Root WebApplicationContext
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/statics/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/*.dll] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/*.exe] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/testHttps]}" onto public java.lang.Object com.wujie.DemoCtrl.testHttps() throws java.lang.Exception
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/testHttp]}" onto public java.lang.Object com.wujie.DemoCtrl.testHttp() throws java.lang.Exception
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/downloadFileForMVC]}" onto public org.springframework.http.ResponseEntity<byte[]> com.wujie.DemoCtrl.downloadFileForMVC() throws java.lang.Exception
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/downloadFileForAll]}" onto public void com.wujie.DemoCtrl.downloadFileForAll(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/download]}" onto public org.springframework.http.ResponseEntity<byte[]> com.wujie.DemoCtrl.downloadFile1() throws java.io.IOException
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping register
+INFO: Mapped "{[/demo/uploadFile]}" onto public java.lang.Object com.wujie.DemoCtrl.fileUpload(javax.servlet.http.HttpServletRequest) throws java.lang.Exception
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Thu Jun 14 15:05:44 CST 2018]; parent: Root WebApplicationContext
+Jun 14, 2018 3:05:45 PM org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler initialize
+INFO: Initializing ExecutorService  'defaultSockJsTaskScheduler'
+Jun 14, 2018 3:05:45 PM org.springframework.web.socket.server.support.WebSocketHandlerMapping registerHandler
+INFO: Mapped URL path [/socket/testHandler] onto handler of type [class org.springframework.web.socket.server.support.WebSocketHttpRequestHandler]
+Jun 14, 2018 3:05:45 PM org.springframework.web.socket.server.support.WebSocketHandlerMapping registerHandler
+INFO: Mapped URL path [/sockjs/testHandler/**] onto handler of type [class org.springframework.web.socket.sockjs.support.SockJsHttpRequestHandler]
+Jun 14, 2018 3:05:45 PM org.springframework.context.support.DefaultLifecycleProcessor start
+INFO: Starting beans in phase 2147483647
+Jun 14, 2018 3:05:45 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'dispatcherServlet': initialization completed in 342 ms
+Jun 14, 2018 3:05:47 PM org.apache.cxf.common.jaxb.JAXBUtils logGeneratedClassNames
+INFO: Created classes: com.yinhai.common.webservice.CallBusiness, com.yinhai.common.webservice.CallBusinessGzip, com.yinhai.common.webservice.CallBusinessGzipResponse, com.yinhai.common.webservice.CallBusinessResponse, com.yinhai.common.webservice.CancelBusiness, com.yinhai.common.webservice.CancelBusinessResponse, com.yinhai.common.webservice.ConfirmBusiness, com.yinhai.common.webservice.ConfirmBusinessResponse, com.yinhai.common.webservice.GetJylsh, com.yinhai.common.webservice.GetJylshResponse, com.yinhai.common.webservice.ObjectFactory, com.yinhai.common.webservice.UnsupportedEncodingException
+<Jun 14, 2018 3:05:49,521 PM CST> <Error> <HTTP> <BEA-101017> <[ServletContext@167285381[app:demo module:demo.war path:null spec-version:3.1]] Root cause of ServletException.
+java.lang.VerifyError: (class: org/bouncycastle/openssl/PEMReader$ECDSAKeyPairParser, method: parseObject signature: (Lorg/bouncycastle/util/io/pem/PemObject;)Ljava/lang/Object;) Incompatible argument to function
+	at org.bouncycastle.openssl.PEMReader.<init>(Unknown Source)
+	at org.bouncycastle.openssl.PEMReader.<init>(Unknown Source)
+	at org.bouncycastle.openssl.PEMReader.<init>(Unknown Source)
+	at com.yinhai.bcpcs.auth.RSAUtils.getPrivateKey(Unknown Source)
+	at com.yinhai.bcpcs.auth.RSAUtils.loadPrivateKey(Unknown Source)
+	Truncated. see log file for complete stacktrace
+> 
+Jun 14, 2018 3:05:52 PM org.apache.cxf.common.jaxb.JAXBUtils logGeneratedClassNames
+INFO: Created classes: com.yinhai.common.webservice.CallBusiness, com.yinhai.common.webservice.CallBusinessGzip, com.yinhai.common.webservice.CallBusinessGzipResponse, com.yinhai.common.webservice.CallBusinessResponse, com.yinhai.common.webservice.CancelBusiness, com.yinhai.common.webservice.CancelBusinessResponse, com.yinhai.common.webservice.ConfirmBusiness, com.yinhai.common.webservice.ConfirmBusinessResponse, com.yinhai.common.webservice.GetJylsh, com.yinhai.common.webservice.GetJylshResponse, com.yinhai.common.webservice.ObjectFactory, com.yinhai.common.webservice.UnsupportedEncodingException
+<Jun 14, 2018 3:05:52,732 PM CST> <Error> <HTTP> <BEA-101017> <[ServletContext@167285381[app:demo module:demo.war path:null spec-version:3.1]] Root cause of ServletException.
+java.lang.NoClassDefFoundError: Could not initialize class com.yinhai.bcpcs.auth.RSAUtils
+	at util.YhWebserviceUtil.invoke(YhWebserviceUtil.java:75)
+	at com.wujie.DemoCtrl.testHttps(DemoCtrl.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	Truncated. see log file for complete stacktrace
+> 
+<Jun 14, 2018 3:05:53,466 PM CST> <Warning> <Socket> <BEA-000449> <Closing the socket, as no data read from it on 192.168.50.132:52,255 during the configured idle timeout of 5 seconds.> 
+<Jun 14, 2018 3:05:53,467 PM CST> <Warning> <Socket> <BEA-000449> <Closing the socket, as no data read from it on 192.168.50.132:52,258 during the configured idle timeout of 5 seconds.> 
+<Jun 14, 2018 3:05:53,467 PM CST> <Warning> <Socket> <BEA-000449> <Closing the socket, as no data read from it on 192.168.50.132:52,256 during the configured idle timeout of 5 seconds.> 
+Jun 14, 2018 3:06:11 PM org.springframework.web.servlet.PageNotFound noHandlerFound
+WARNING: No mapping found for HTTP request with URI [/demo/testHttps] in DispatcherServlet with name 'dispatcherServlet'
+<Jun 14, 2018 3:06:11,875 PM CST> <Warning> <org.springframework.web.servlet.PageNotFound> <BEA-000000> <No mapping found for HTTP request with URI [/demo/testHttps] in DispatcherServlet with name 'dispatcherServlet'> 
+<Jun 14, 2018 3:06:18,467 PM CST> <Warning> <Socket> <BEA-000449> <Closing the socket, as no data read from it on 192.168.50.132:52,304 during the configured idle timeout of 5 seconds.> 
+<Jun 14, 2018 3:06:18,467 PM CST> <Warning> <Socket> <BEA-000449> <Closing the socket, as no data read from it on 192.168.50.132:52,306 during the configured idle timeout of 5 seconds.> 
+<Jun 14, 2018 3:06:18,468 PM CST> <Warning> <Socket> <BEA-000449> <Closing the socket, as no data read from it on 192.168.50.132:52,307 during the configured idle timeout of 5 seconds.> 
+Jun 14, 2018 3:06:18 PM org.springframework.web.servlet.PageNotFound noHandlerFound
+WARNING: No mapping found for HTTP request with URI [/demo/testHttps] in DispatcherServlet with name 'dispatcherServlet'
+<Jun 14, 2018 3:06:18,806 PM CST> <Warning> <org.springframework.web.servlet.PageNotFound> <BEA-000000> <No mapping found for HTTP request with URI [/demo/testHttps] in DispatcherServlet with name 'dispatcherServlet'> 
+Jun 14, 2018 3:06:24 PM org.apache.cxf.common.jaxb.JAXBUtils logGeneratedClassNames
+INFO: Created classes: com.yinhai.common.webservice.CallBusiness, com.yinhai.common.webservice.CallBusinessGzip, com.yinhai.common.webservice.CallBusinessGzipResponse, com.yinhai.common.webservice.CallBusinessResponse, com.yinhai.common.webservice.CancelBusiness, com.yinhai.common.webservice.CancelBusinessResponse, com.yinhai.common.webservice.ConfirmBusiness, com.yinhai.common.webservice.ConfirmBusinessResponse, com.yinhai.common.webservice.GetJylsh, com.yinhai.common.webservice.GetJylshResponse, com.yinhai.common.webservice.ObjectFactory, com.yinhai.common.webservice.UnsupportedEncodingException
+<Jun 14, 2018 3:06:24,598 PM CST> <Error> <HTTP> <BEA-101017> <[ServletContext@167285381[app:demo module:demo.war path:null spec-version:3.1]] Root cause of ServletException.
+java.lang.NoClassDefFoundError: Could not initialize class com.yinhai.bcpcs.auth.RSAUtils
+	at util.YhWebserviceUtil.invoke(YhWebserviceUtil.java:75)
+	at com.wujie.DemoCtrl.testHttps(DemoCtrl.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	Truncated. see log file for complete stacktrace
+> 
+<Jun 14, 2018 3:06:28,467 PM CST> <Warning> <Socket> <BEA-000449> <Closing the socket, as no data read from it on 192.168.50.132:52,318 during the configured idle timeout of 5 seconds.> 
+<Jun 14, 2018 3:06:28,467 PM CST> <Warning> <Socket> <BEA-000449> <Closing the socket, as no data read from it on 192.168.50.132:52,319 during the configured idle timeout of 5 seconds.> 

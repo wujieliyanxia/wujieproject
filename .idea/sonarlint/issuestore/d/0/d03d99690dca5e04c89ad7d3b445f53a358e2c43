@@ -1,0 +1,10 @@
+
+osquid:S3008"SRename this field "WSDL_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýÜÔ©üÿÿÿÿ
+qsquid:S3008"URename this field "SYSTEM_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìˆä³üÿÿÿÿ
+Osquid:S1313"3Make this IP "172.27.109.201" address configurable.(ýÜÔ©üÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿ«Ùš
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥“„Ýüÿÿÿÿ
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ÚÈÉà
+xsquid:S1488$"aImmediately return this expression instead of assigning it to the temporary variable "returnObj".(¼èµè
+?squid:S1148."#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

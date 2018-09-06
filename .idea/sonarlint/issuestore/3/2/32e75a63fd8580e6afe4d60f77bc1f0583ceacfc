@@ -1,0 +1,21 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÏßãÇüÿÿÿÿ8—º˜ïÉ,
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(É·ç±ùÿÿÿÿ8ÿ¿ÖìÉ,
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÜÓ‡Äþÿÿÿÿ8Ë¹÷ìÉ,
+asquid:S22760"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(ã¢”Æ8‡·íÉ,
+Ssquid:S22090"5Change this instance-reference to a static reference.(ã¢”Æ8ˆÃŽíÉ,
+Ksquid:S1604"(Make this anonymous inner class a lambda(ôâ…Æþÿÿÿÿ8ÚÇ§ëÉ,
+U
+squid:S106="9Replace this use of System.out or System.err by a logger.(÷É—k8—ü‚íÉ,
+dsquid:S21421"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‡·íÉ,
+Fsquid:S1604	"(Make this anonymous inner class a lambda(¼×¨™8âÌ¤ëÉ,
+Fsquid:S11482"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8‡·íÉ,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ã¤´ÿ8—º˜ïÉ,
+dsquid:S2142&"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÿ¿ÖìÉ,
+®%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78§ïŠíÉ,
+U
+squid:S1065"9Replace this use of System.out or System.err by a logger.(÷É—k8»§‚íÉ,
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¨¾ê&8•¼ëÉ,
+]squid:S2274%":Remove this call to "wait" or move it into a "while" loop.(ŒØÇ¶ýÿÿÿÿ8ÿ¿ÖìÉ,
+Fsquid:S1148'"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÿ¿ÖìÉ,

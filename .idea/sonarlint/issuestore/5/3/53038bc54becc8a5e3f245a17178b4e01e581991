@@ -1,0 +1,15 @@
+
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ìê•úÿÿÿÿ8»ü›¬Ì,
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(‘Ó›ßÿÿÿÿÿ8»½ˆ­Ì,
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(öŠÈü8‡úË¯Ì,
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(ÕúÕòùÿÿÿÿ8ãşÊ¯Ì,
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ÑÌ§«üÿÿÿÿ8áÌ¹¯Ì,
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(¬şŸË8Æ€Ê¯Ì,
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(‘Ó›ßÿÿÿÿÿ8»½ˆ­Ì,
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(¼Ú–áûÿÿÿÿ8·ê¸¯Ì,
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ìê•úÿÿÿÿ8»ü›¬Ì,

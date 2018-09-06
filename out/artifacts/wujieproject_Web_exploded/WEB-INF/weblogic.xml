@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weblogic-web-app xmlns="http://www.bea.com/ns/weblogic/90"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<charset-params>
+		<input-charset>
+			<resource-path>/*</resource-path>
+			<java-charset-name>UTF-8</java-charset-name>
+		</input-charset>
+	</charset-params>
+	<context-root>/demo</context-root>
+	<jsp-descriptor>
+		<backward-compatible>false</backward-compatible>
+		<page-check-seconds>1</page-check-seconds>
+		<precompile>false</precompile>
+	</jsp-descriptor>
+	<container-descriptor>
+		<prefer-application-packages>  
+	     	<package-name>antlr.*</package-name>
+	     	<package-name>javassist*</package-name>
+	     	<package-name>org.springframework.*</package-name>
+	     	<package-name>org.bouncycastle.asn1.*</package-name>
+			<package-name>com.ctc.wstx.*</package-name>
+			<package-name>org.bouncycastle.asn1*</package-name>
+			<package-name>org.codehaus.stax2.*</package-name>
+	 	 </prefer-application-packages>
+	</container-descriptor>
+</weblogic-web-app>

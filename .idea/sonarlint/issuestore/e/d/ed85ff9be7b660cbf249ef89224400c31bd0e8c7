@@ -1,0 +1,14 @@
+
+Esquid:S1481J")Remove this unused "buff" local variable.(­Ï–Íşÿÿÿÿ
+O
+squid:S106/"9Replace this use of System.out or System.err by a logger.(—šû†
+Osquid:S13137"3Make this IP "172.27.109.200" address configurable.(õÿõÿÿÿÿÿ
+~squid:S1488v"bImmediately return this expression instead of assigning it to the temporary variable "returnStrl".(¹âİ¶üÿÿÿÿ
+Tsquid:S1854J"8Remove this useless assignment to local variable "buff".(­Ï–Íşÿÿÿÿ
+psquid:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ïô
+Jsquid:S1313."3Make this IP "172.27.109.201" address configurable.(ş ¨ö
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(—šû†
+osquid:UselessImportCheck"?Remove this unused import 'org.springframework.http.MediaType'.(úŸİ¯şÿÿÿÿ8›ÊêßÍ,
+jsquid:UselessImportCheck
+"FRemove this unused import 'org.apache.http.conn.EofSensorInputStream'.(Ø×Ãª

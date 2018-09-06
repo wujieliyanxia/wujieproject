@@ -1,0 +1,5 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘„ô³
+Tsquid:S1854"8Remove this useless assignment to local variable "head".(ÏŸÓðøÿÿÿÿ
+]squid:S1226"AIntroduce a new variable instead of reusing the parameter "head".(ÏŸÓðøÿÿÿÿ

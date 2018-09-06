@@ -1,0 +1,5 @@
+
+ysquid:S00115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜˜µÎ8¡é£ØÎ,
+rsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8Ü¼¨ØÎ,
+Osquid:S1068",Remove this unused "instance" private field.(œ€µÔúÿÿÿÿ8ˆ÷ ØÎ,
+Csquid:S1068"%Remove this unused "a" private field.(ùŒ‡ß8»€¦ØÎ,

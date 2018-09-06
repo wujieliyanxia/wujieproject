@@ -1,0 +1,14 @@
+
+Jsquid:S1444"'Make this "public static A" field final(íşö²ÿÿÿÿÿ8™äı¦Ì,
+osquid:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íşö²ÿÿÿÿÿ8™äı¦Ì,
+Jsquid:S1444"'Make this "public static A" field final(íşö²ÿÿÿÿÿ8Şû÷¦Ì,
+osquid:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íşö²ÿÿÿÿÿ8Şû÷¦Ì,
+?squid:S1214""Move constants to a class or enum.(¹º”M8³²î¦Ì,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(™ÕÉĞùÿÿÿÿ8Ñªø¦Ì,
+‡"squid:ClassVariableVisibilityCheck"MMake A a static final constant or non-public and provide accessors if needed.(íşö²ÿÿÿÿÿ8Şû÷¦Ì,
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(õÔ›—8Şû÷¦Ì,
+osquid:S00114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹º”M8èëí¦Ì,
+usquid:S00114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷±Ãüÿÿÿÿ8Âìï¦Ì,
+Esquid:S1214""Move constants to a class or enum.(÷±Ãüÿÿÿÿ8°èğ¦Ì,
+‡"squid:ClassVariableVisibilityCheck"MMake A a static final constant or non-public and provide accessors if needed.(íşö²ÿÿÿÿÿ8™äı¦Ì,

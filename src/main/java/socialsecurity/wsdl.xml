@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://tempuri.org/" xmlns:apachesoap="http://xml.apache.org/xml-soap"
+                  xmlns:impl="http://tempuri.org/" xmlns:intf="http://tempuri.org/"
+                  xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/"
+                  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <!--WSDL created by Apache Axis version: 1.4
+    Built on Apr 22, 2006 (06:55:48 PDT)-->
+    <wsdl:types>
+        <schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/"
+                xmlns="http://www.w3.org/2001/XMLSchema">
+            <element name="Grjbxxcx">
+                <complexType>
+                    <sequence>
+                        <element name="sfzhm" type="xsd:string"/>
+                        <element name="xm" type="xsd:string"/>
+                        <element name="qdm" type="xsd:string"/>
+                        <element name="pwd" type="xsd:string"/>
+                    </sequence>
+                </complexType>
+            </element>
+            <element name="GrjbxxcxResponse">
+                <complexType>
+                    <sequence>
+                        <element name="GrjbxxcxResult" type="xsd:string"/>
+                    </sequence>
+                </complexType>
+            </element>
+            <element name="Grdyffcx">
+                <complexType>
+                    <sequence>
+                        <element name="sfzhm" type="xsd:string"/>
+                        <element name="xm" type="xsd:string"/>
+                        <element name="xz" type="xsd:string"/>
+                        <element name="qdm" type="xsd:string"/>
+                        <element name="pwd" type="xsd:string"/>
+                    </sequence>
+                </complexType>
+            </element>
+            <element name="GrdyffcxResponse">
+                <complexType>
+                    <sequence>
+                        <element name="GrdyffcxResult" type="xsd:string"/>
+                    </sequence>
+                </complexType>
+            </element>
+            <element name="Gryldycx">
+                <complexType>
+                    <sequence>
+                        <element name="sfzhm" type="xsd:string"/>
+                        <element name="xm" type="xsd:string"/>
+                        <element name="qdm" type="xsd:string"/>
+                        <element name="pwd" type="xsd:string"/>
+                    </sequence>
+                </complexType>
+            </element>
+            <element name="GryldycxResponse">
+                <complexType>
+                    <sequence>
+                        <element name="GryldycxResult" type="xsd:string"/>
+                    </sequence>
+                </complexType>
+            </element>
+            <element name="Grjfmxcx">
+                <complexType>
+                    <sequence>
+                        <element name="sfzhm" type="xsd:string"/>
+                        <element name="xm" type="xsd:string"/>
+                        <element name="xz" type="xsd:string"/>
+                        <element name="qdm" type="xsd:string"/>
+                        <element name="pwd" type="xsd:string"/>
+                    </sequence>
+                </complexType>
+            </element>
+            <element name="GrjfmxcxResponse">
+                <complexType>
+                    <sequence>
+                        <element name="GrjfmxcxResult" type="xsd:string"/>
+                    </sequence>
+                </complexType>
+            </element>
+            <element name="Grjfjscx">
+                <complexType>
+                    <sequence>
+                        <element name="sfzhm" type="xsd:string"/>
+                        <element name="xm" type="xsd:string"/>
+                        <element name="xz" type="xsd:string"/>
+                        <element name="qdm" type="xsd:string"/>
+                        <element name="pwd" type="xsd:string"/>
+                    </sequence>
+                </complexType>
+            </element>
+            <element name="GrjfjscxResponse">
+                <complexType>
+                    <sequence>
+                        <element name="GrjfjscxResult" type="xsd:string"/>
+                    </sequence>
+                </complexType>
+            </element>
+        </schema>
+    </wsdl:types>
+
+    <wsdl:message name="GrdyffcxRequest">
+
+        <wsdl:part element="impl:Grdyffcx" name="parameters">
+
+        </wsdl:part>
+
+    </wsdl:message>
+
+    <wsdl:message name="GryldycxResponse">
+
+        <wsdl:part element="impl:GryldycxResponse" name="parameters">
+
+        </wsdl:part>
+
+    </wsdl:message>
+
+    <wsdl:message name="GrjfjscxRequest">
+
+        <wsdl:part element="impl:Grjfjscx" name="parameters">
+
+        </wsdl:part>
+
+    </wsdl:message>
+
+    <wsdl:message name="GrjbxxcxRequest">
+
+        <wsdl:part element="impl:Grjbxxcx" name="parameters">
+
+        </wsdl:part>
+
+    </wsdl:message>
+
+    <wsdl:message name="GrjbxxcxResponse">
+
+        <wsdl:part element="impl:GrjbxxcxResponse" name="parameters">
+
+        </wsdl:part>
+
+    </wsdl:message>
+
+    <wsdl:message name="GrjfmxcxResponse">
+
+        <wsdl:part element="impl:GrjfmxcxResponse" name="parameters">
+
+        </wsdl:part>
+
+    </wsdl:message>
+
+    <wsdl:message name="GryldycxRequest">
+
+        <wsdl:part element="impl:Gryldycx" name="parameters">
+
+        </wsdl:part>
+
+    </wsdl:message>
+
+    <wsdl:message name="GrjfmxcxRequest">
+
+        <wsdl:part element="impl:Grjfmxcx" name="parameters">
+
+        </wsdl:part>
+
+    </wsdl:message>
+
+    <wsdl:message name="GrjfjscxResponse">
+
+        <wsdl:part element="impl:GrjfjscxResponse" name="parameters">
+
+        </wsdl:part>
+
+    </wsdl:message>
+
+    <wsdl:message name="GrdyffcxResponse">
+
+        <wsdl:part element="impl:GrdyffcxResponse" name="parameters">
+
+        </wsdl:part>
+
+    </wsdl:message>
+
+    <wsdl:portType name="get_dataSoap">
+
+        <wsdl:operation name="Grjbxxcx">
+
+            <wsdl:input message="impl:GrjbxxcxRequest" name="GrjbxxcxRequest">
+
+            </wsdl:input>
+
+            <wsdl:output message="impl:GrjbxxcxResponse" name="GrjbxxcxResponse">
+
+            </wsdl:output>
+
+        </wsdl:operation>
+
+        <wsdl:operation name="Grdyffcx">
+
+            <wsdl:input message="impl:GrdyffcxRequest" name="GrdyffcxRequest">
+
+            </wsdl:input>
+
+            <wsdl:output message="impl:GrdyffcxResponse" name="GrdyffcxResponse">
+
+            </wsdl:output>
+
+        </wsdl:operation>
+
+        <wsdl:operation name="Gryldycx">
+
+            <wsdl:input message="impl:GryldycxRequest" name="GryldycxRequest">
+
+            </wsdl:input>
+
+            <wsdl:output message="impl:GryldycxResponse" name="GryldycxResponse">
+
+            </wsdl:output>
+
+        </wsdl:operation>
+
+        <wsdl:operation name="Grjfmxcx">
+
+            <wsdl:input message="impl:GrjfmxcxRequest" name="GrjfmxcxRequest">
+
+            </wsdl:input>
+
+            <wsdl:output message="impl:GrjfmxcxResponse" name="GrjfmxcxResponse">
+
+            </wsdl:output>
+
+        </wsdl:operation>
+
+        <wsdl:operation name="Grjfjscx">
+
+            <wsdl:input message="impl:GrjfjscxRequest" name="GrjfjscxRequest">
+
+            </wsdl:input>
+
+            <wsdl:output message="impl:GrjfjscxResponse" name="GrjfjscxResponse">
+
+            </wsdl:output>
+
+        </wsdl:operation>
+
+    </wsdl:portType>
+
+    <wsdl:binding name="get_dataSoapSoapBinding" type="impl:get_dataSoap">
+
+        <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+        <wsdl:operation name="Grjbxxcx">
+
+            <wsdlsoap:operation soapAction="http://tempuri.org/Grjbxxcx"/>
+
+            <wsdl:input name="GrjbxxcxRequest">
+
+                <wsdlsoap:body use="literal"/>
+
+            </wsdl:input>
+
+            <wsdl:output name="GrjbxxcxResponse">
+
+                <wsdlsoap:body use="literal"/>
+
+            </wsdl:output>
+
+        </wsdl:operation>
+
+        <wsdl:operation name="Grdyffcx">
+
+            <wsdlsoap:operation soapAction="http://tempuri.org/Grdyffcx"/>
+
+            <wsdl:input name="GrdyffcxRequest">
+
+                <wsdlsoap:body use="literal"/>
+
+            </wsdl:input>
+
+            <wsdl:output name="GrdyffcxResponse">
+
+                <wsdlsoap:body use="literal"/>
+
+            </wsdl:output>
+
+        </wsdl:operation>
+
+        <wsdl:operation name="Gryldycx">
+
+            <wsdlsoap:operation soapAction="http://tempuri.org/Gryldycx"/>
+
+            <wsdl:input name="GryldycxRequest">
+
+                <wsdlsoap:body use="literal"/>
+
+            </wsdl:input>
+
+            <wsdl:output name="GryldycxResponse">
+
+                <wsdlsoap:body use="literal"/>
+
+            </wsdl:output>
+
+        </wsdl:operation>
+
+        <wsdl:operation name="Grjfmxcx">
+
+            <wsdlsoap:operation soapAction="http://tempuri.org/Grjfmxcx"/>
+
+            <wsdl:input name="GrjfmxcxRequest">
+
+                <wsdlsoap:body use="literal"/>
+
+            </wsdl:input>
+
+            <wsdl:output name="GrjfmxcxResponse">
+
+                <wsdlsoap:body use="literal"/>
+
+            </wsdl:output>
+
+        </wsdl:operation>
+
+        <wsdl:operation name="Grjfjscx">
+
+            <wsdlsoap:operation soapAction="http://tempuri.org/Grjfjscx"/>
+
+            <wsdl:input name="GrjfjscxRequest">
+
+                <wsdlsoap:body use="literal"/>
+
+            </wsdl:input>
+
+            <wsdl:output name="GrjfjscxResponse">
+
+                <wsdlsoap:body use="literal"/>
+
+            </wsdl:output>
+
+        </wsdl:operation>
+
+    </wsdl:binding>
+
+    <wsdl:service name="get_data">
+
+        <wsdl:port binding="impl:get_dataSoapSoapBinding" name="get_dataSoap">
+
+            <wsdlsoap:address location="http://10.16.19.60:8001/services/get_dataSoap"/>
+
+        </wsdl:port>
+
+    </wsdl:service>
+
+</wsdl:definitions>

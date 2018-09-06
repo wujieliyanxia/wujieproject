@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/backport-util-concurrent-3.1.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/backport-util-concurrent-3.1.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/barcode-2.0.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/barcode-2.0.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcmail-jdk15-1.43.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcmail-jdk15-1.43.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcp-httpcs-1.3.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcp-httpcs.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcp-httpcs.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcp-webservicecs.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcp-webservicecs.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcp-webservicecs.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcpg-jdk15on-1.50.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcpg-jdk15on-1.50.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcpg-jdk15on-1.50.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcprov-jdk15-1.43.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcprov-jdk15-1.43.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcprov-jdk15-1.43.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bcprov-jdk15-1.46.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bctsp-jdk15-1.43.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/bctsp-jdk15-1.43.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/byte-buddy-1.8.8.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/yinhai/byte-buddy-agent-1.8.8.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bankdemo/BzkInterfaceDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/util/PwdUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resource/bcp.keystore" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resource/bcp.keystore" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resource/trustStore.jks" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resource/trustStore1.jks" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resource/人社厅认证中心.pfx" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/certs/trustStore.jks" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/index.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/statics/sockjs.min.js" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

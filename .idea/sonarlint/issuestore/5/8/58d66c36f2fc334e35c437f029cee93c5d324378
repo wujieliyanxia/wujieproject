@@ -1,0 +1,15 @@
+
+Gsquid:S2093Ö"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+T
+squid:S106P"9Replace this use of System.out or System.err by a logger.(Ïû¯µúÿÿÿÿ
+Qsquid:S1118"":Add a private constructor to hide the implicit public one.(…ÎÒÌ
+]squid:S2147ä"ECombine this catch with the one at line 226, which has the same body.(ï­£Ä
+Zsquid:S1858Ì"B"getValue" returns a string, there's no need to call "toString()".(êØÁã
+?squid:S1148D"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148L"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148i"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148›"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148¶"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148ã"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148å"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148ï"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

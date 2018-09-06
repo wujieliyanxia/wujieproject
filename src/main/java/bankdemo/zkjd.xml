@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+               soap:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+    <soap:Header>
+        <out:system xmlns:out="http://www.ylzinfo.com/"></out:system>
+    </soap:Header>
+    <soap:Body>
+        <out:business xmlns:out="http://www.ylzinfo.com/">
+            <resultset name="retrieve">
+                <row AAE010="6222620340012787952" REMARKS="" AAB301="220100"
+                     CITYSENDADDR="交通银行各营业网点负责联系哥企业、单位、学校负责人领取社保卡事宜。" ORGANID="22010004" BANKTIME0="20171205143008"
+                     APPLYTIME="20171127102758" VALIDTAG="9" CARDTYPE="1" AAZ500="D58132166" BHYY="" TRANSACTTYPE="3"
+                     AAC002="362329199412164516" BANKFINISHTIME0="20171214183815" INSUREFINISHTIME="20180305152753"
+                     BATCHNO="22647" CITYSENDTIME="20180306142713" CITYTIME="20180306142613" AAE008B="交通银行长春高新技术开发区支行"
+                     INSURETIME="20180117150650" AAC003="邬洁" ZXWZ="22647-9-3-104" AAE008="95559" GETTIME="0"
+                     PROVINCETIME="20180305152753"/>
+            </resultset>
+        </out:business>
+    </soap:Body>
+</soap:Envelope>

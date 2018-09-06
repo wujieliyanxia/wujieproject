@@ -1,0 +1,5 @@
+
+qsquid:ModifiersOrderCheck
+"EReorder the modifiers to comply with the Java Language Specification.(ˆé¡®8ŒÂÈ´Í,
+Msquid:S1444"/Make this "public static hasChange" field final(¨›´Å8ŒÂÈ´Í,
+Š"squid:ClassVariableVisibilityCheck"UMake hasChange a static final constant or non-public and provide accessors if needed.(¨›´Å8ŒÂÈ´Í,

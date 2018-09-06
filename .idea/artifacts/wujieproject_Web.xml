@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wujieproject:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/wujieproject_Web</output-path>
+    <root id="archive" name="wujieproject_Web.war">
+      <element id="artifact" artifact-name="wujieproject:Web exploded" />
+    </root>
+  </artifact>
+</component>
